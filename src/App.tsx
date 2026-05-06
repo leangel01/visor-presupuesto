@@ -42,7 +42,7 @@ import { dataProvider } from "./providers/data";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/visor-presupuesto">
       <RefineKbarProvider>
         <ColorModeContextProvider>
           <AntdApp>
