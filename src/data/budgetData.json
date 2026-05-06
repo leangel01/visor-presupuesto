@@ -1,0 +1,1388 @@
+{
+    "10": {
+        "Centro Nacional de Metrología": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 212816211.0,
+                "MONTO_MODIFICADO": 243471753.39999998,
+                "MONTO_EJERCIDO": 243471753.39999998
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 170762586.0,
+                "MONTO_MODIFICADO": 195572370.42,
+                "MONTO_EJERCIDO": 195572370.42
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 180826389.0,
+                "MONTO_MODIFICADO": 178165438.39,
+                "MONTO_EJERCIDO": 178165438.39
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 166702921.0,
+                "MONTO_MODIFICADO": 186544350.0,
+                "MONTO_EJERCIDO": 186544350.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 174812115.0,
+                "MONTO_MODIFICADO": 198097593.0,
+                "MONTO_EJERCIDO": 198097593.0
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 183409468.0,
+                "MONTO_MODIFICADO": 186556818.8,
+                "MONTO_EJERCIDO": 186556818.8
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 194460993.0,
+                "MONTO_MODIFICADO": 193601293.96,
+                "MONTO_EJERCIDO": 193601293.96
+            }
+        ],
+        "Fideicomiso de Fomento Minero": [
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Procuraduría Federal del Consumidor": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 1118358245.0,
+                "MONTO_MODIFICADO": 1177009769.67,
+                "MONTO_EJERCIDO": 1177009769.67
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 999136683.0,
+                "MONTO_MODIFICADO": 1139064710.46,
+                "MONTO_EJERCIDO": 1139064710.46
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 1006518491.0,
+                "MONTO_MODIFICADO": 995578702.73,
+                "MONTO_EJERCIDO": 995578702.73
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 1011766001.0,
+                "MONTO_MODIFICADO": 1085218386.0,
+                "MONTO_EJERCIDO": 1085218386.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 1054496931.0,
+                "MONTO_MODIFICADO": 1098686294.3,
+                "MONTO_EJERCIDO": 1098686294.3
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 1113702957.0,
+                "MONTO_MODIFICADO": 1164659768.57,
+                "MONTO_EJERCIDO": 1164659768.57
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 1185476510.0,
+                "MONTO_MODIFICADO": 1247387855.8,
+                "MONTO_EJERCIDO": 1247387855.8
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 2755340076.0,
+                "MONTO_MODIFICADO": 3128660751.18,
+                "MONTO_EJERCIDO": 3128660751.18
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 5897142032.0,
+                "MONTO_MODIFICADO": 8335420643.7699995,
+                "MONTO_EJERCIDO": 8335420643.7699995
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 4657025084.0,
+                "MONTO_MODIFICADO": 39622635930.48,
+                "MONTO_EJERCIDO": 39622596498.79
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 5069809852.0,
+                "MONTO_MODIFICADO": 3595612256.0,
+                "MONTO_EJERCIDO": 3595612256.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 2057203254.0,
+                "MONTO_MODIFICADO": 2200116528.8,
+                "MONTO_EJERCIDO": 2200116528.8
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 2168604508.0,
+                "MONTO_MODIFICADO": 1880193913.59,
+                "MONTO_EJERCIDO": 1880193913.59
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 2249164316.0,
+                "MONTO_MODIFICADO": 1965172977.85,
+                "MONTO_EJERCIDO": 1965172977.85
+            }
+        ],
+        "Servicio Geológico Mexicano": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 219699914.0,
+                "MONTO_MODIFICADO": 541523280.3199999,
+                "MONTO_EJERCIDO": 541523280.3199999
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 210120493.0,
+                "MONTO_MODIFICADO": 216948040.67000002,
+                "MONTO_EJERCIDO": 216948040.67000002
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 222170212.0,
+                "MONTO_MODIFICADO": 227912020.05,
+                "MONTO_EJERCIDO": 227912020.05
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 228838661.0,
+                "MONTO_MODIFICADO": 229328717.0,
+                "MONTO_EJERCIDO": 229328717.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 237051617.0,
+                "MONTO_MODIFICADO": 246637029.8,
+                "MONTO_EJERCIDO": 246637029.8
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 245845937.0,
+                "MONTO_MODIFICADO": 261126469.18,
+                "MONTO_EJERCIDO": 261126469.18
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 260627153.0,
+                "MONTO_MODIFICADO": 271062061.89,
+                "MONTO_EJERCIDO": 271062061.89
+            }
+        ]
+    },
+    "13": {
+        "Administración Portuaria Integral de Mazatlán, S.A. de C.V.": [
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 259999996.0,
+                "MONTO_EJERCIDO": 259999996.0
+            }
+        ],
+        "Administración Portuaria Integral de Puerto Madero, S.A. de C.V.": [
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 13388704.0,
+                "MONTO_EJERCIDO": 13388704.0
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Acapulco, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 1463079.09,
+                "MONTO_EJERCIDO": 1463079.09
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 6601220.33,
+                "MONTO_EJERCIDO": 6601220.33
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Cabo San Lucas, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 66639.99,
+                "MONTO_EJERCIDO": 66639.99
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Coatzacoalcos, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 103654556.7,
+                "MONTO_EJERCIDO": 103654556.7
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 287439999.9,
+                "MONTO_EJERCIDO": 287439999.9
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Dos Bocas, S.A. de C.V.": [
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 1418936665.58,
+                "MONTO_EJERCIDO": 1418936665.58
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Puerto Chiapas, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 24947981.0,
+                "MONTO_MODIFICADO": 25508069.4,
+                "MONTO_EJERCIDO": 25508069.4
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 26327235.0,
+                "MONTO_MODIFICADO": 125462639.99000001,
+                "MONTO_EJERCIDO": 125462639.99000001
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 31160199.0,
+                "MONTO_MODIFICADO": 766654450.68,
+                "MONTO_EJERCIDO": 766654450.68
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Salina Cruz, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 1070007573.9000001,
+                "MONTO_EJERCIDO": 1070007573.9000001
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 3112616039.5899997,
+                "MONTO_EJERCIDO": 3112616039.5899997
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 2332055697.57,
+                "MONTO_EJERCIDO": 2332055697.57
+            }
+        ],
+        "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 1182602412.0,
+                "MONTO_EJERCIDO": 1182602412.0
+            }
+        ],
+        "Corredor Interoceánico del Istmo de Tehuantepec": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 100063068.41,
+                "MONTO_EJERCIDO": 100063068.41
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 17133942485.0,
+                "MONTO_MODIFICADO": 30909453384.79,
+                "MONTO_EJERCIDO": 30909453384.79
+            }
+        ],
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 3534187249.8300004,
+                "MONTO_EJERCIDO": 3534187249.8300004
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 3925404747.0,
+                "MONTO_MODIFICADO": 30932329639.22,
+                "MONTO_EJERCIDO": 30932329639.22
+            }
+        ],
+        "Fideicomiso Universidad Marítima y Portuaria de México": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 96036920.0,
+                "MONTO_MODIFICADO": 93419011.32,
+                "MONTO_EJERCIDO": 93419011.32
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 102904751.0,
+                "MONTO_MODIFICADO": 97468647.57000001,
+                "MONTO_EJERCIDO": 97468647.57000001
+            }
+        ],
+        "Fideicomiso Universidad Marítima y Portuaria de México    ": [
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 90741671.0,
+                "MONTO_MODIFICADO": 88374978.8,
+                "MONTO_EJERCIDO": 88374978.8
+            }
+        ],
+        "Fideicomiso de Formación y Capacitación para el personal de la Marina Mercante Nacional": [
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 54339570.0,
+                "MONTO_EJERCIDO": 54339570.0
+            }
+        ],
+        "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 53765264.79,
+                "MONTO_EJERCIDO": 53765264.79
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 276318302.06,
+                "MONTO_EJERCIDO": 276318302.06
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 31305775196.0,
+                "MONTO_MODIFICADO": 35581616669.81,
+                "MONTO_EJERCIDO": 35581616669.81
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 32083375192.0,
+                "MONTO_MODIFICADO": 33994917329.66,
+                "MONTO_EJERCIDO": 33994917329.66
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 33557785594.0,
+                "MONTO_MODIFICADO": 36135320080.08,
+                "MONTO_EJERCIDO": 36135320080.08
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 35476715511.0,
+                "MONTO_MODIFICADO": 42486708514.0,
+                "MONTO_EJERCIDO": 42486708514.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 37634501460.0,
+                "MONTO_MODIFICADO": 44998766478.4,
+                "MONTO_EJERCIDO": 44998766478.4
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 41755778438.0,
+                "MONTO_MODIFICADO": 50242846201.8,
+                "MONTO_EJERCIDO": 50242838336.8
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 50694800353.0,
+                "MONTO_MODIFICADO": 59267020299.33,
+                "MONTO_EJERCIDO": 59267020299.33
+            }
+        ],
+        "Turística Integral Islas Marías, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 990000.0,
+                "MONTO_EJERCIDO": 990000.0
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 3531552.04,
+                "MONTO_EJERCIDO": 3531552.04
+            }
+        ]
+    },
+    "15": {
+        "Comisión Nacional de Vivienda": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 6936833017.0,
+                "MONTO_MODIFICADO": 6245672469.0199995,
+                "MONTO_EJERCIDO": 6245672469.0199995
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 9446722762.0,
+                "MONTO_MODIFICADO": 9415826663.66,
+                "MONTO_EJERCIDO": 9415826663.66
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 5534571403.0,
+                "MONTO_MODIFICADO": 6234241712.42,
+                "MONTO_EJERCIDO": 6234241712.42
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 5319478901.0,
+                "MONTO_MODIFICADO": 5799485427.0,
+                "MONTO_EJERCIDO": 5799485427.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 5492759480.0,
+                "MONTO_MODIFICADO": 6419547410.8,
+                "MONTO_EJERCIDO": 6419547410.8
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 5235949268.0,
+                "MONTO_MODIFICADO": 5951723565.78,
+                "MONTO_EJERCIDO": 5951723565.78
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 4848703082.0,
+                "MONTO_MODIFICADO": 5059240136.65,
+                "MONTO_EJERCIDO": 5059240136.65
+            }
+        ],
+        "Fideicomiso Fondo Nacional de Fomento Ejidal": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 3997196.82,
+                "MONTO_EJERCIDO": 3997196.82
+            }
+        ],
+        "Instituto Nacional del Suelo Sustentable": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 100000000.0,
+                "MONTO_MODIFICADO": 149342415.88,
+                "MONTO_EJERCIDO": 149342415.88
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 641149758.0,
+                "MONTO_MODIFICADO": 347455225.18,
+                "MONTO_EJERCIDO": 347455225.18
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 529573513.0,
+                "MONTO_MODIFICADO": 398186942.24,
+                "MONTO_EJERCIDO": 398186942.24
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 416937123.0,
+                "MONTO_MODIFICADO": 416911463.0,
+                "MONTO_EJERCIDO": 416911463.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 349343786.0,
+                "MONTO_MODIFICADO": 345111318.8,
+                "MONTO_EJERCIDO": 345111318.8
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 286836993.0,
+                "MONTO_MODIFICADO": 309412786.04,
+                "MONTO_EJERCIDO": 309412786.04
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 302667579.0,
+                "MONTO_MODIFICADO": 301562990.03,
+                "MONTO_EJERCIDO": 301562990.03
+            }
+        ],
+        "Procuraduría Agraria": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 937300558.0,
+                "MONTO_MODIFICADO": 1065478774.87,
+                "MONTO_EJERCIDO": 1065478774.87
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 852842607.0,
+                "MONTO_MODIFICADO": 925738407.48,
+                "MONTO_EJERCIDO": 925738407.48
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 930651523.0,
+                "MONTO_MODIFICADO": 870859480.75,
+                "MONTO_EJERCIDO": 870859480.75
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 861287058.0,
+                "MONTO_MODIFICADO": 957704169.0,
+                "MONTO_EJERCIDO": 957704169.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 893863620.0,
+                "MONTO_MODIFICADO": 1004637082.7,
+                "MONTO_EJERCIDO": 1004637082.7
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 950522197.0,
+                "MONTO_MODIFICADO": 1056277522.48,
+                "MONTO_EJERCIDO": 1056277522.48
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 1012758990.0,
+                "MONTO_MODIFICADO": 1104724610.42,
+                "MONTO_EJERCIDO": 1104724610.42
+            }
+        ],
+        "Registro Agrario Nacional": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 729930329.0,
+                "MONTO_MODIFICADO": 810527819.3,
+                "MONTO_EJERCIDO": 810527819.3
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 711280358.0,
+                "MONTO_MODIFICADO": 724987955.48,
+                "MONTO_EJERCIDO": 724987955.48
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 726888611.0,
+                "MONTO_MODIFICADO": 638155848.67,
+                "MONTO_EJERCIDO": 638155848.67
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 716176994.0,
+                "MONTO_MODIFICADO": 707309240.0,
+                "MONTO_EJERCIDO": 707309240.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 743826122.0,
+                "MONTO_MODIFICADO": 760204014.1,
+                "MONTO_EJERCIDO": 760204014.1
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 788727221.0,
+                "MONTO_MODIFICADO": 839348459.39,
+                "MONTO_EJERCIDO": 839348459.39
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 835482378.0,
+                "MONTO_MODIFICADO": 893459509.5,
+                "MONTO_EJERCIDO": 893459509.5
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 5919946763.0,
+                "MONTO_MODIFICADO": 10141720815.17,
+                "MONTO_EJERCIDO": 10141321091.7
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 7102943805.0,
+                "MONTO_MODIFICADO": 6668320388.219999,
+                "MONTO_EJERCIDO": 6668320388.219999
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 3217573572.0,
+                "MONTO_MODIFICADO": 5703593650.179999,
+                "MONTO_EJERCIDO": 5703593650.179999
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 9306464168.0,
+                "MONTO_MODIFICADO": 10995180692.0,
+                "MONTO_EJERCIDO": 10995180692.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 5388677187.0,
+                "MONTO_MODIFICADO": 8516295313.3,
+                "MONTO_EJERCIDO": 8516295313.3
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 8002708069.0,
+                "MONTO_MODIFICADO": 13102622487.56,
+                "MONTO_EJERCIDO": 13102622487.56
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 5880657805.0,
+                "MONTO_MODIFICADO": 7714636021.38,
+                "MONTO_EJERCIDO": 7714636021.38
+            }
+        ]
+    },
+    "36": {
+        "Guardia Nacional": [
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 861320807.34,
+                "MONTO_EJERCIDO": 861320807.34
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 3842200000.0,
+                "MONTO_MODIFICADO": 19911547431.85,
+                "MONTO_EJERCIDO": 19899039988.11
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 35671578458.0,
+                "MONTO_MODIFICADO": 25726772221.0,
+                "MONTO_EJERCIDO": 25726635216.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 62825379774.0,
+                "MONTO_MODIFICADO": 25880503789.7,
+                "MONTO_EJERCIDO": 25880486921.7
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 67826738583.0,
+                "MONTO_MODIFICADO": 24432593018.89,
+                "MONTO_EJERCIDO": 24432593018.89
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 70767434577.0,
+                "MONTO_MODIFICADO": 34597833761.13,
+                "MONTO_EJERCIDO": 34597833761.13
+            }
+        ]
+    },
+    "47": {
+        "Administración Portuaria Integral de Coatzacoalcos, S.A. de C.V.": [
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 272000000.0,
+                "MONTO_EJERCIDO": 272000000.0
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 77147721.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Administración Portuaria Integral de Salina Cruz, S.A. de C.V.": [
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 277554043.02,
+                "MONTO_EJERCIDO": 277554043.02
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 1847036707.0,
+                "MONTO_MODIFICADO": 714330691.0,
+                "MONTO_EJERCIDO": 714330691.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 742754418.4,
+                "MONTO_EJERCIDO": 742754418.4
+            }
+        ],
+        "Corredor Interoceánico del Istmo de Tehuantepec": [
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 3487638891.0,
+                "MONTO_MODIFICADO": 148451603.38,
+                "MONTO_EJERCIDO": 148451603.38
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 457318098.0,
+                "MONTO_MODIFICADO": 194304542.0,
+                "MONTO_EJERCIDO": 194304542.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 10265865648.0,
+                "MONTO_MODIFICADO": 329486676.4,
+                "MONTO_EJERCIDO": 329486676.4
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 7280326850.0,
+                "MONTO_MODIFICADO": 156751320.99,
+                "MONTO_EJERCIDO": 154627773.13
+            }
+        ],
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 1571721989.12,
+                "MONTO_EJERCIDO": 1571721989.12
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 1751486189.0,
+                "MONTO_MODIFICADO": 1097272852.0,
+                "MONTO_EJERCIDO": 1097272852.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 380604113.0,
+                "MONTO_MODIFICADO": 2612664796.9,
+                "MONTO_EJERCIDO": 2612664796.9
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 401884088.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Sistema Público de Radiodifusión del Estado Mexicano": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 220158647.0,
+                "MONTO_MODIFICADO": 443607448.13,
+                "MONTO_EJERCIDO": 443607448.13
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 205371749.0,
+                "MONTO_MODIFICADO": 210497798.29999998,
+                "MONTO_EJERCIDO": 210497798.29999998
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 214316900.0,
+                "MONTO_MODIFICADO": 283926436.49,
+                "MONTO_EJERCIDO": 283926436.49
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 1014322196.0,
+                "MONTO_MODIFICADO": 563094336.0,
+                "MONTO_EJERCIDO": 563094336.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 998960482.0,
+                "MONTO_MODIFICADO": 413856282.9,
+                "MONTO_EJERCIDO": 413856282.9
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 625201005.0,
+                "MONTO_MODIFICADO": 481946446.19,
+                "MONTO_EJERCIDO": 481946446.19
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 656526068.0,
+                "MONTO_MODIFICADO": 620128790.71,
+                "MONTO_EJERCIDO": 620128790.71
+            }
+        ]
+    },
+    "7": {
+        "Aerolínea del Estado Mexicano, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 873219970.5699999,
+                "MONTO_EJERCIDO": 873219970.5699999
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 119673172.0,
+                "MONTO_MODIFICADO": 1426274142.73,
+                "MONTO_EJERCIDO": 1426271328.73
+            }
+        ],
+        "Aeropuerto Internacional Felipe Ángeles, S.A. de C.V.": [
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 237858985.0,
+                "MONTO_EJERCIDO": 224976588.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 419449081.0,
+                "MONTO_MODIFICADO": 1328085611.8,
+                "MONTO_EJERCIDO": 1328085611.8
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 836230355.0,
+                "MONTO_MODIFICADO": 1483995896.16,
+                "MONTO_EJERCIDO": 1483995896.16
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 1500000001.0,
+                "MONTO_MODIFICADO": 1510248515.09,
+                "MONTO_EJERCIDO": 1510248515.09
+            }
+        ],
+        "Grupo Aeroportuario, Ferroviario, de Servicios Auxiliares y Conexos, Olmeca-Maya-Mexica, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 15172754614.0,
+                "MONTO_MODIFICADO": 5184760467.55,
+                "MONTO_EJERCIDO": 5184760467.52
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 81021903813.0,
+                "MONTO_MODIFICADO": 80946040902.61,
+                "MONTO_EJERCIDO": 80936156680.57
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 93670187410.0,
+                "MONTO_MODIFICADO": 111618204853.38,
+                "MONTO_EJERCIDO": 111618187332.19
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 94028694246.0,
+                "MONTO_MODIFICADO": 124177229824.37,
+                "MONTO_EJERCIDO": 124051372007.87
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 112557168656.0,
+                "MONTO_MODIFICADO": 138707215881.0,
+                "MONTO_EJERCIDO": 138691716741.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 103688456470.0,
+                "MONTO_MODIFICADO": 139873085162.9,
+                "MONTO_EJERCIDO": 139873085162.9
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 111075407922.0,
+                "MONTO_MODIFICADO": 131582569502.23,
+                "MONTO_EJERCIDO": 131582569502.23
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 116704114622.0,
+                "MONTO_MODIFICADO": 198287227368.46,
+                "MONTO_EJERCIDO": 198287227368.46
+            }
+        ],
+        "Tren Maya, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 10120257231.96,
+                "MONTO_EJERCIDO": 10120257231.96
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 125937262357.0,
+                "MONTO_MODIFICADO": 29912688517.41,
+                "MONTO_EJERCIDO": 29912688517.41
+            }
+        ]
+    },
+    "9": {
+        "Administración Portuaria Integral de Ensenada, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 68442520.59,
+                "MONTO_EJERCIDO": 68442520.59
+            }
+        ],
+        "Administración Portuaria Integral de Puerto Madero, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 24564533.0,
+                "MONTO_MODIFICADO": 63408221.14,
+                "MONTO_EJERCIDO": 63408221.14
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 22427547.0,
+                "MONTO_MODIFICADO": 47301949.04,
+                "MONTO_EJERCIDO": 47301949.04
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 24262126.0,
+                "MONTO_MODIFICADO": 65190753.879999995,
+                "MONTO_EJERCIDO": 65190753.879999995
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 24221304.0,
+                "MONTO_MODIFICADO": 10699054.0,
+                "MONTO_EJERCIDO": 10699054.0
+            }
+        ],
+        "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 1918575745.8,
+                "MONTO_EJERCIDO": 1918575745.8
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 3053290524.0,
+                "MONTO_MODIFICADO": 1446718892.29,
+                "MONTO_EJERCIDO": 1446718892.29
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 1023582000.0,
+                "MONTO_MODIFICADO": 349688654.0,
+                "MONTO_EJERCIDO": 349688654.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 680851939.0,
+                "MONTO_MODIFICADO": 563736309.6,
+                "MONTO_EJERCIDO": 563736309.6
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 1468603021.0,
+                "MONTO_MODIFICADO": 686963528.0,
+                "MONTO_EJERCIDO": 686963528.0
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 1500000000.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Aeropuertos y Servicios Auxiliares": [
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 3000000000.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 476284805.0,
+                "MONTO_EJERCIDO": 476284805.0
+            }
+        ],
+        "Agencia Federal de Aviación Civil": [
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 0.0,
+                "MONTO_MODIFICADO": 60308450.07,
+                "MONTO_EJERCIDO": 60308450.07
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 379708886.0,
+                "MONTO_MODIFICADO": 551770663.0,
+                "MONTO_EJERCIDO": 551770663.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 500640287.0,
+                "MONTO_MODIFICADO": 943866000.9,
+                "MONTO_EJERCIDO": 943866000.9
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 678696465.0,
+                "MONTO_MODIFICADO": 902092914.18,
+                "MONTO_EJERCIDO": 902092914.18
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 712019682.0,
+                "MONTO_MODIFICADO": 873443454.5,
+                "MONTO_EJERCIDO": 873443454.5
+            }
+        ],
+        "Agencia Reguladora del Transporte Ferroviario": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 151471172.0,
+                "MONTO_MODIFICADO": 101079052.44,
+                "MONTO_EJERCIDO": 101079052.44
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 136330267.0,
+                "MONTO_MODIFICADO": 98670789.88,
+                "MONTO_EJERCIDO": 98670789.88
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 29346275.0,
+                "MONTO_MODIFICADO": 38661803.269999996,
+                "MONTO_EJERCIDO": 38661803.269999996
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 45535702.0,
+                "MONTO_MODIFICADO": 45753412.0,
+                "MONTO_EJERCIDO": 45753412.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 46808967.0,
+                "MONTO_MODIFICADO": 49033888.3,
+                "MONTO_EJERCIDO": 49033888.3
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 49321897.0,
+                "MONTO_MODIFICADO": 54825836.87,
+                "MONTO_EJERCIDO": 54825836.87
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 52338744.0,
+                "MONTO_MODIFICADO": 54515303.52,
+                "MONTO_EJERCIDO": 54515303.52
+            }
+        ],
+        "Caminos y Puentes Federales de Ingresos y Servicios Conexos": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 218175005.0,
+                "MONTO_MODIFICADO": 148227256.25,
+                "MONTO_EJERCIDO": 148227256.25
+            }
+        ],
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 721908059.0,
+                "MONTO_MODIFICADO": 746356974.73,
+                "MONTO_EJERCIDO": 746356974.73
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 569140674.0,
+                "MONTO_MODIFICADO": 1207302041.78,
+                "MONTO_EJERCIDO": 1207302041.78
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 395752275.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante Nacional": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 75715784.0,
+                "MONTO_MODIFICADO": 81358380.08,
+                "MONTO_EJERCIDO": 81358380.08
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 71076833.0,
+                "MONTO_MODIFICADO": 76214014.0,
+                "MONTO_EJERCIDO": 76214014.0
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 79223340.0,
+                "MONTO_MODIFICADO": 79700344.53,
+                "MONTO_EJERCIDO": 79700344.53
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 81142262.0,
+                "MONTO_MODIFICADO": 28727013.0,
+                "MONTO_EJERCIDO": 28727013.0
+            }
+        ],
+        "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 5813397234.0,
+                "MONTO_MODIFICADO": 60617730565.12,
+                "MONTO_EJERCIDO": 60617730565.12
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 262876744.0,
+                "MONTO_MODIFICADO": 272918189.75,
+                "MONTO_EJERCIDO": 272918189.75
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 272758463.0,
+                "MONTO_MODIFICADO": 209079795.08,
+                "MONTO_EJERCIDO": 209079795.08
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 243739694.0,
+                "MONTO_MODIFICADO": 209574197.0,
+                "MONTO_EJERCIDO": 209574197.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 248376885.0,
+                "MONTO_MODIFICADO": 157234260.4,
+                "MONTO_EJERCIDO": 157234260.4
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 259729523.0,
+                "MONTO_MODIFICADO": 92227107.67,
+                "MONTO_EJERCIDO": 92227107.67
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 274715325.0,
+                "MONTO_MODIFICADO": 0.0,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Instituto Mexicano del Transporte": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 146447335.0,
+                "MONTO_MODIFICADO": 201289387.6,
+                "MONTO_EJERCIDO": 200985802.6
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 136464147.0,
+                "MONTO_MODIFICADO": 161101087.8,
+                "MONTO_EJERCIDO": 161101087.8
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 151262037.0,
+                "MONTO_MODIFICADO": 152872136.8,
+                "MONTO_EJERCIDO": 152872136.8
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 151882703.0,
+                "MONTO_MODIFICADO": 166476653.0,
+                "MONTO_EJERCIDO": 166476653.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 157657971.0,
+                "MONTO_MODIFICADO": 165684353.9,
+                "MONTO_EJERCIDO": 165684353.9
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 163076318.0,
+                "MONTO_MODIFICADO": 207346304.85,
+                "MONTO_EJERCIDO": 207346304.85
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 173113409.0,
+                "MONTO_MODIFICADO": 190861148.26999998,
+                "MONTO_EJERCIDO": 190861148.26999998
+            }
+        ],
+        "Organismo Promotor de Inversiones en Telecomunicaciones": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 173805076.0,
+                "MONTO_MODIFICADO": 175390965.46,
+                "MONTO_EJERCIDO": 175390965.46
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 154526612.0,
+                "MONTO_MODIFICADO": 96450606.71,
+                "MONTO_EJERCIDO": 96450606.71
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 168563265.0,
+                "MONTO_MODIFICADO": 82877286.28,
+                "MONTO_EJERCIDO": 82877286.28
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 137569028.0,
+                "MONTO_MODIFICADO": 105855705.0,
+                "MONTO_EJERCIDO": 105855705.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 138435510.0,
+                "MONTO_MODIFICADO": 104021064.9,
+                "MONTO_EJERCIDO": 104021064.9
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 141408394.0,
+                "MONTO_MODIFICADO": 115670287.35,
+                "MONTO_EJERCIDO": 115670287.35
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 149484698.0,
+                "MONTO_MODIFICADO": 2861089041.4399996,
+                "MONTO_EJERCIDO": 2861089041.4399996
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 73790005572.0,
+                "MONTO_MODIFICADO": 73286324913.98,
+                "MONTO_EJERCIDO": 73151345929.34
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 58884790831.0,
+                "MONTO_MODIFICADO": 57980282882.86,
+                "MONTO_EJERCIDO": 57979933248.5
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 44707558169.0,
+                "MONTO_MODIFICADO": 47403345073.58,
+                "MONTO_EJERCIDO": 47403268045.69
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 44802778051.0,
+                "MONTO_MODIFICADO": 47528944450.0,
+                "MONTO_EJERCIDO": 47528928029.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 56774188458.0,
+                "MONTO_MODIFICADO": 51327817237.7,
+                "MONTO_EJERCIDO": 51327817237.7
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 67364670362.0,
+                "MONTO_MODIFICADO": 59486671626.0,
+                "MONTO_EJERCIDO": 59486671626.0
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 75287777733.0,
+                "MONTO_MODIFICADO": 60425830484.19,
+                "MONTO_EJERCIDO": 60425830484.19
+            }
+        ],
+        "Servicios a la Navegación en el Espacio Aéreo Mexicano": [
+            {
+                "CICLO": 2018,
+                "MONTO_APROBADO": 2350052421.0,
+                "MONTO_MODIFICADO": 3076072783.75,
+                "MONTO_EJERCIDO": 3076072783.75
+            },
+            {
+                "CICLO": 2019,
+                "MONTO_APROBADO": 2331620846.0,
+                "MONTO_MODIFICADO": 2970497780.23,
+                "MONTO_EJERCIDO": 2970497780.23
+            },
+            {
+                "CICLO": 2020,
+                "MONTO_APROBADO": 3553448113.0,
+                "MONTO_MODIFICADO": 3450418877.29,
+                "MONTO_EJERCIDO": 3450418877.29
+            },
+            {
+                "CICLO": 2021,
+                "MONTO_APROBADO": 6004061426.0,
+                "MONTO_MODIFICADO": 3804430968.0,
+                "MONTO_EJERCIDO": 3804430968.0
+            },
+            {
+                "CICLO": 2022,
+                "MONTO_APROBADO": 3873789988.0,
+                "MONTO_MODIFICADO": 4178220676.8,
+                "MONTO_EJERCIDO": 4178220676.8
+            },
+            {
+                "CICLO": 2023,
+                "MONTO_APROBADO": 3200120869.0,
+                "MONTO_MODIFICADO": 4090540243.4500003,
+                "MONTO_EJERCIDO": 4090540243.4500003
+            },
+            {
+                "CICLO": 2024,
+                "MONTO_APROBADO": 3382113600.0,
+                "MONTO_MODIFICADO": 4287911917.79,
+                "MONTO_EJERCIDO": 4287911917.79
+            }
+        ]
+    }
+}

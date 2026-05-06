@@ -1,4 +1,3 @@
-// src/components/header/index.tsx
 import type { RefineThemedLayoutHeaderProps } from "@refinedev/antd";
 import { useGetIdentity } from "@refinedev/core";
 import {
@@ -31,12 +30,10 @@ export const Header: React.FC<RefineThemedLayoutHeaderProps> = ({
   const headerStyles: React.CSSProperties = {
     backgroundColor: token.colorBgElevated,
     display: "flex",
-    // Cambiamos a space-between para repartir el espacio
-    justifyContent: "space-between", 
+    justifyContent: "flex-end",
     alignItems: "center",
     padding: "0px 24px",
     height: "64px",
-    transition: "all 0.3s",
   };
 
   if (sticky) {
@@ -47,24 +44,6 @@ export const Header: React.FC<RefineThemedLayoutHeaderProps> = ({
 
   return (
     <AntdLayout.Header style={headerStyles}>
-      {/* TÍTULO AGREGADO A LA IZQUIERDA */}
-      <div
-        style={{
-          fontSize: "20px",
-          fontWeight: 700,
-          // El token colorText cambia de color según el modo oscuro/claro
-          color: token.colorText, 
-          flex: 1,
-          maxWidth: "50%",
-          whiteSpace: "nowrap",
-          overflow: "hidden",
-          textOverflow: "ellipsis",
-        }}
-      >
-        Visor Presupuestario
-      </div>
-
-      {/* CONTROLES EXISTENTES A LA DERECHA */}
       <Space>
         <Switch
           checkedChildren="🌛"
@@ -73,7 +52,7 @@ export const Header: React.FC<RefineThemedLayoutHeaderProps> = ({
           defaultChecked={mode === "dark"}
         />
         <Space style={{ marginLeft: "8px" }} size="middle">
-          {user?.name && <Text strong style={{ color: token.colorText }}>{user.name}</Text>}
+          {user?.name && <Text strong>{user.name}</Text>}
           {user?.avatar && <Avatar src={user?.avatar} alt={user?.name} />}
         </Space>
       </Space>

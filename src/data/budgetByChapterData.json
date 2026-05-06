@@ -1,0 +1,4082 @@
+{
+    "10": {
+        "Centro Nacional de Metrología": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 165171406.23999998
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1820337.0899999999
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 51104200.97
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 7791513.84
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 13374848.4
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 4209446.86
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 142921614.5
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 48275659.22
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4375096.7
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 141798642.77999997
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1134625.15
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 29729087.46
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5077151.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 425932.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 147175087.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 31177546.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4923272.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3268445.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 155437890.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 34966144.6
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4299309.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3394248.9
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 153293325.02
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 24882452.4
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4112510.73
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 4268530.65
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 157765880.71
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 31372350.98
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4463062.27
+            }
+        ],
+        "Fideicomiso de Fomento Minero": [
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Procuraduría Federal del Consumidor": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 975868618.69
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 12395260.77
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 188745890.21
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 892116889.03
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 12883570.53
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 234064250.9
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 899561643.39
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4526802.67
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 91490256.67
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 947393612.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5054950.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 132769824.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 986847792.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4122679.3000000003
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 99943823.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 7772000.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1034756472.15
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7195100.14
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 104262859.89
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 18445336.39
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1111342981.66
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1252295.98
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 134792578.16
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1475631523.92
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 29411401.55
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 990705325.88
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 449362415.54
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 2641638.93
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 180908445.35999998
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1156718682.29
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 23056067.63
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 646935403.75
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 6502328359.25
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3340800.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3041330.85
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1161160721.77
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5124843.63
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 540931162.96
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 37909538515.1
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 5841255.33
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1226286552.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7478904.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 478232919.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 1883613881.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1285006320.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 9735312.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 642704055.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 250143872.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 12526968.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1278200579.62
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 10513932.1
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 468177435.18
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 123301966.69
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1306417968.2
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 6819192.36
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 508940509.83
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 142995307.45999998
+            }
+        ],
+        "Servicio Geológico Mexicano": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 236241595.61
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 305281684.71
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 210946697.67000002
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 6001343.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 223266678.05
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4645342.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 224540673.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4788044.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 241669291.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4967738.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 255671796.18
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5454673.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 265344162.89
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5717899.0
+            }
+        ]
+    },
+    "13": {
+        "Administración Portuaria Integral de Mazatlán, S.A. de C.V.": [
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 259999996.0
+            }
+        ],
+        "Administración Portuaria Integral de Puerto Madero, S.A. de C.V.": [
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 7579785.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 682568.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5126351.0
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Acapulco, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 1463079.09
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 6601220.33
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Cabo San Lucas, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 66639.99
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Coatzacoalcos, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 103654556.7
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 287439999.9
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Dos Bocas, S.A. de C.V.": [
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1418936665.58
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Puerto Chiapas, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 12753000.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1542235.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 11212834.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 13072562.99
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1628544.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 11843816.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 98917717.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 16877365.73
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1707132.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 12415360.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 735654592.9499999
+            }
+        ],
+        "Administración del Sistema Portuario Nacional Salina Cruz, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1070007573.9000001
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3112616039.5899997
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 122781984.93
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2209273712.64
+            }
+        ],
+        "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 587532026.81
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 595070385.19
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Corredor Interoceánico del Istmo de Tehuantepec": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 72364337.26
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 393124.65
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 27305606.5
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 115901573.2
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4726158.49
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 44488602.1
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 30744337051.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 186389344.13
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 15066172.13
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 228272001.81
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3104459731.76
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 275176549.26
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 17335290.29
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 299554796.7
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1896860512.23
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 28443402490.739998
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Fideicomiso Universidad Marítima y Portuaria de México": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 93419011.32
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 97468647.57000001
+            }
+        ],
+        "Fideicomiso Universidad Marítima y Portuaria de México    ": [
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 88374978.8
+            }
+        ],
+        "Fideicomiso de Formación y Capacitación para el personal de la Marina Mercante Nacional": [
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 54339570.0
+            }
+        ],
+        "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 35737583.34
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 72105.16
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 17955576.29
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 184752344.01
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2798712.3899999997
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 88767245.66
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 19021361503.92
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4804225788.25
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5439026238.96
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 251175004.56
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3244006331.45
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2821821802.67
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 20550417450.55
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5425463862.67
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 3969091466.68
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 304673433.4
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3531592698.46
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 213678417.9
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 22216864194.7
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4391598726.400001
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4219988847.08
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 299710727.27
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 4715831119.55
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 291326465.08
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 24510331384.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5837579394.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5767657742.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 325950579.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 4512791553.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1319543055.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 212854807.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 26486237635.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 6252203113.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5658807001.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 408708587.79999995
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 4144702081.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2048108059.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 27825057023.87
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8225859430.57
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 6558077258.45
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 357139829.92
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 4098343327.25
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3177361666.74
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 999800.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 30077660663.56
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8435204394.96
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 7639385251.45
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 2116636662.51
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 6737356402.54
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 4260776924.31
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Turística Integral Islas Marías, S.A. de C.V.": [
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 990000.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3531552.04
+            }
+        ]
+    },
+    "15": {
+        "Comisión Nacional de Vivienda": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 69598381.95
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1600936.88
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 479410290.46999997
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5695062859.72
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 51233243.09
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5237770.7700000005
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 301753071.06
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 9057602578.74
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 50468193.57
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2232513.7800000003
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 270917004.76
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5910624000.31
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 54327269.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1334486.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 182504817.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5561318855.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 145828872.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2054379.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 145435347.89999998
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 6126228810.5
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 175847030.56
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2263178.1100000003
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 142974533.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5630638824.11
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 148374519.73
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1677384.26
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 153939230.38
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4755249002.28
+            }
+        ],
+        "Fideicomiso Fondo Nacional de Fomento Ejidal": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3997196.82
+            }
+        ],
+        "Instituto Nacional del Suelo Sustentable": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 149342415.88
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 154330596.05
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1144356.24
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 360008.35
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 191620264.54000002
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 162429331.39000002
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 496411.58
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 11643737.97
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 223617461.3
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 193860442.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 776612.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 6621344.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 215653065.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 201754427.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 3747706.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 139609185.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 213362652.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 39739.64
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 727636.4
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 95282758.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 225091488.03
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 167040.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 76304462.0
+            }
+        ],
+        "Procuraduría Agraria": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 735843237.7900001
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 27124093.55
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 286089444.59
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 16421998.94
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 654185764.97
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 24150323.77
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 230566271.01999998
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 16836047.72
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 687583838.19
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 15317844.06
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 164266460.89
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 3691337.61
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 697473144.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 18401306.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 235853800.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5975919.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 738065039.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 20676977.9
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 233465040.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 12430025.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 791605218.53
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 21188780.44
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 230357857.51000002
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 13125666.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 830384404.7900001
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 21712812.89
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 239191441.37
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 13435951.37
+            }
+        ],
+        "Registro Agrario Nacional": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 419076226.46999997
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 11180898.75
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 264209036.08
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 116061658.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 365635794.63
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 6959924.87
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 249283064.35
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 103109171.63
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 347249167.23
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4029793.08
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 202575703.84
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 84301184.52
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 363591612.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7353110.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 215657266.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 120707252.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 385166428.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8149914.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 229137903.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 137749768.2
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 394139101.6
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7730312.1
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 286328429.39
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 151150616.3
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 412339478.5
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 11974901.5
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 313137396.75
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 156007732.75
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 889553600.41
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 30709207.21
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1976363920.84
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 7244694363.24
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 615291773.07
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 22772167.04
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 803379790.1600001
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5226876657.949999
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 609242517.11
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 18641146.91
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 590487988.64
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4485221997.5199995
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 671188454.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 15993085.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 827949139.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 9480050014.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 710785524.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 19003306.6
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 952052131.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 6834454351.1
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 766753641.37
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 18240013.44
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1526474728.19
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 10791154104.56
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 808000846.58
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 16356867.1
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 928060866.42
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5962217441.28
+            }
+        ]
+    },
+    "36": {
+        "Guardia Nacional": [
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 836240325.34
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 25080482.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 13202005694.13
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2787979233.1600003
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 3867821053.82
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 141907.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 41092100.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 17162855178.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2694809705.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4702933926.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 541224.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1165495183.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 17571274836.600002
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 3011597770.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5207867679.2
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 320257.2
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 89426378.2
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 18227687127.62
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1889662480.9299998
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4301138270.36
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 551347.2
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 13553792.78
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 20096250297.379997
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7936692644.14
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 6514752619.12
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 368132.92
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 49770067.57
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ]
+    },
+    "47": {
+        "Administración Portuaria Integral de Coatzacoalcos, S.A. de C.V.": [
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 272000000.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Administración Portuaria Integral de Salina Cruz, S.A. de C.V.": [
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 277554043.02
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 714330691.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 742754418.4
+            }
+        ],
+        "Corredor Interoceánico del Istmo de Tehuantepec": [
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 65104409.379999995
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 762013.37
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 16458271.56
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 1114000.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 65012909.07
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 88545025.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 415899.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 18614169.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 1373449.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 85356000.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 92698883.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 164390.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 28016319.2
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 208607083.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 35649277.61
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 321713.37
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 27173149.32
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 91483632.83
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 115873348.53
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 166322048.19
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 262401453.04000002
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1027125139.36
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 37412266.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 26028654.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 349717117.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 684114815.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 42793342.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 14735240.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 168777030.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2386359183.3
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Sistema Público de Radiodifusión del Estado Mexicano": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 125258400.93
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8013549.529999999
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 310335497.67
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 103573904.32000001
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8109580.2
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 98814313.78
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 102572801.75999999
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 6089216.37
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 107895210.08
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 51319846.46
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 16049361.82
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 111659562.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4040880.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 111141194.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 100000.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 283592809.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 52559891.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 131762656.00000001
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4816304.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 139896030.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 77935068.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 59446223.5
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 142744384.65
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7115533.35
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 136649703.37
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 131405275.73
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 64031549.09
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 163705223.53
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 11814837.85
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 282517777.72
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 138425608.69
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 23665342.919999998
+            }
+        ]
+    },
+    "7": {
+        "Aerolínea del Estado Mexicano, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 482003727.17
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 391216243.4
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 257278000.24
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 187903159.96
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 981090168.5300001
+            }
+        ],
+        "Aeropuerto Internacional Felipe Ángeles, S.A. de C.V.": [
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 66162877.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 143432043.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 15381668.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 383487780.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 121074701.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 823523129.8
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 452355097.2
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5885629.02
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1025437384.63
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 317785.31
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 479362743.42
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7226711.57
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1023659060.1
+            }
+        ],
+        "Grupo Aeroportuario, Ferroviario, de Servicios Auxiliares y Conexos, Olmeca-Maya-Mexica, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 867428090.95
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1151996895.29
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1561765056.28
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1603570425.0
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 53363488219.87
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 9250856883.49
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8143168481.87
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 2657358984.69
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 5366906555.24
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2154377555.41
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 56166582375.53
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 9102623209.25
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 7432757734.57
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 28064051527.690002
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 6048757599.07
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 4803414886.08
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 62030847491.549995
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8711076311.56
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 7154147513.8
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 29411920015.420002
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3079528497.15
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 13662862178.39
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 990000.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 65005207092.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 11168707678.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8196553669.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 49601612634.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3548088359.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1171547309.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 70189388792.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 12094363679.6
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8133634058.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 42762199985.399994
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 4244126478.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2449372168.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 78677678319.14
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 12955272265.64
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8516624309.86
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 22532642676.68
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 5727144752.51
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3167267178.3999996
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 5940000.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 87538342221.88
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 14427934246.78
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8520378354.27
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 79714740148.42
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 5307720839.440001
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 2778111557.67
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Tren Maya, S.A. de C.V.": [
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 11444893.23
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1380562044.69
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 8010821611.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 717428683.04
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 492809128.48
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 61767677.64
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 1163873159.8999999
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 11610856085.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 3450005441.2200003
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 13133377025.169998
+            }
+        ]
+    },
+    "9": {
+        "Administración Portuaria Integral de Ensenada, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 68442520.59
+            }
+        ],
+        "Administración Portuaria Integral de Puerto Madero, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 13234513.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1636464.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 19760842.14
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 28776402.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 13273652.54
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1373957.9
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 9918338.6
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 22736000.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 12289816.85
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 897631.18
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 10739305.85
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 41264000.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 4539831.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 803882.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5355341.0
+            }
+        ],
+        "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1918575745.8
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 1446718892.29
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 16302304.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 333386350.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 18400000.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 445371664.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 99964645.2
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 20629184.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 238093830.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 428240514.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Aeropuertos y Servicios Auxiliares": [
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 3577845.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 472706960.0
+            }
+        ],
+        "Agencia Federal de Aviación Civil": [
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 927659.8400000001
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 9123973.21
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 32956893.11
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 17299923.91
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 407142568.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 12639371.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 102940615.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 29048109.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 572248786.9
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 9936333.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 335169176.6
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 26511704.4
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 670319608.64
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 12818955.03
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 193488201.72
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 25466148.79
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 710422412.6
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 14829628.079999998
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 135142593.28
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 13048820.54
+            }
+        ],
+        "Agencia Reguladora del Transporte Ferroviario": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 22477494.59
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1262912.65
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 27104183.020000003
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 50234462.18
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 19368951.03
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1212155.97
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 17293862.66
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 60795820.22
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 33158956.44
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 433212.07999999996
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4875234.75
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 194400.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 41866334.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 806977.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 3080101.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 45601193.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 413897.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 3018797.5
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 47978331.79
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1260876.06
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 5586629.02
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 49640977.27
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 707405.2
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 4166921.05
+            }
+        ],
+        "Caminos y Puentes Federales de Ingresos y Servicios Conexos": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 148227256.25
+            }
+        ],
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 96348197.77
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 183757302.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 116437369.96
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 349814105.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 90032844.77
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 236433319.17999998
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 178967490.73
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 701868387.1
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante Nacional": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 81358380.08
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 76214014.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 79700344.53
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 28727013.0
+            }
+        ],
+        "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 215719132.86999997
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2998196.96
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 164883231.13
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 59686922147.16
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 547207857.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 167620690.11
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 2935730.1399999997
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 102361769.5
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 146103592.48
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1318928.99
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 61657273.61
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 141154791.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 119995.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 68299411.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 118525412.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 76843.7
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 38632004.199999996
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 77852233.7
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 92045.05
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 14282828.92
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ],
+        "Instituto Mexicano del Transporte": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 96225019.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 7983810.34
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 61588676.21
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 9999.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 35178298.05
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 91018827.17999999
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 8636435.63
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 60972328.160000004
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 473496.83
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 95734288.81
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 3914855.9499999997
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 53222992.04
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 94001630.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 5618962.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 66856061.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 92651524.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 9146064.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 63886765.4
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 108204271.53
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4447895.88
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 94694137.44
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 114169735.92999999
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 4057696.1399999997
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 70919062.57
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1714653.63
+            }
+        ],
+        "Organismo Promotor de Inversiones en Telecomunicaciones": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 59678319.830000006
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 1135319.81
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 114577325.82000001
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 38807286.39
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 441871.09
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 57201449.23
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 40402683.3
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 171502.38
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 42303100.599999994
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 44043305.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 213101.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 61599299.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 54178357.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 219907.2
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 49622800.400000006
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 61688455.15
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 445368.39
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 53536463.809999995
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 69652953.25
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 960093.2699999999
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 31401016.18
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 2759074978.74
+            }
+        ],
+        "Secretaría": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 4456814032.32
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 570957950.17
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8603582243.06
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4456645474.08
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1323715826.3700001
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 46326003445.49
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 7413626957.849999
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 4208079058.59
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 486294597.51
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 8746998065.69
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 2473772767.31
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1032730698.67
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 37867202915.61
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 3164855145.12
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 4005937608.64
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 196293246.54
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 12059582210.92
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 5137419138.83
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 680445552.47
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 24338292099.45
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 985298188.8399999
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3636233879.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 214984092.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 14287060858.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 2418356203.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 824879684.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 21637752888.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 4509660425.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3801075058.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 386318415.1
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 13764108937.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 4473783569.3
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1330394171.8
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 24157510400.2
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 3414626685.5
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 4175314751.3
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 367291047.14
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 15752226483.72
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 3291961083.19
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1308749375.45
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 31021020642.96
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 10000.0
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 3570098242.24
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3587158741.83
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 301000272.96
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 16323494008.7
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 738109924.46
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 1318992588.31
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 32490086135.65
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 7000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 8000,
+                "MONTO_EJERCIDO": 5666988812.280001
+            }
+        ],
+        "Servicios a la Navegación en el Espacio Aéreo Mexicano": [
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 2364795293.96
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 34645455.39
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 374378384.48
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 298503267.0
+            },
+            {
+                "CICLO": 2018,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 3750382.92
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 2398182732.0299997
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 31021872.58
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 511488747.88
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2019,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 29804427.740000002
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 2431680933.81
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 16074566.6
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 457861375.72
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 4000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2020,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 544802001.1600001
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 2655601456.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 62869576.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 563406590.0
+            },
+            {
+                "CICLO": 2021,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 522553346.0
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 2996558439.4
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 27308603.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 606051135.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 547689514.5
+            },
+            {
+                "CICLO": 2022,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 612983.9
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3452862671.66
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 29486186.37
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 557693111.65
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 50498273.77
+            },
+            {
+                "CICLO": 2023,
+                "ID_CAPITULO": 6000,
+                "MONTO_EJERCIDO": 0.0
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 1000,
+                "MONTO_EJERCIDO": 3607260524.48
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 2000,
+                "MONTO_EJERCIDO": 24166331.76
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 3000,
+                "MONTO_EJERCIDO": 656485061.55
+            },
+            {
+                "CICLO": 2024,
+                "ID_CAPITULO": 5000,
+                "MONTO_EJERCIDO": 0.0
+            }
+        ]
+    }
+}

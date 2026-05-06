@@ -1,0 +1,3016 @@
+{
+    "10": {
+        "Centro Nacional de Metrología": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 212816211.0,
+                    "MONTO_MODIFICADO": 225887458.14,
+                    "MONTO_EJERCIDO": 225887458.14
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 13374848.4,
+                    "MONTO_EJERCIDO": 13374848.4
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 4209446.86,
+                    "MONTO_EJERCIDO": 4209446.86
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 170762586.0,
+                    "MONTO_MODIFICADO": 195572370.42,
+                    "MONTO_EJERCIDO": 195572370.42
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 180826389.0,
+                    "MONTO_MODIFICADO": 177739506.39,
+                    "MONTO_EJERCIDO": 177739506.39
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 425932.0,
+                    "MONTO_EJERCIDO": 425932.0
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 166702921.0,
+                    "MONTO_MODIFICADO": 183275905.0,
+                    "MONTO_EJERCIDO": 183275905.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3268445.0,
+                    "MONTO_EJERCIDO": 3268445.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 174812115.0,
+                    "MONTO_MODIFICADO": 194703344.1,
+                    "MONTO_EJERCIDO": 194703344.1
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3394248.9,
+                    "MONTO_EJERCIDO": 3394248.9
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 183409468.0,
+                    "MONTO_MODIFICADO": 182288288.15,
+                    "MONTO_EJERCIDO": 182288288.15
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 4268530.65,
+                    "MONTO_EJERCIDO": 4268530.65
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 194460993.0,
+                    "MONTO_MODIFICADO": 193601293.96,
+                    "MONTO_EJERCIDO": 193601293.96
+                }
+            ]
+        },
+        "Fideicomiso de Fomento Minero": {
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Procuraduría Federal del Consumidor": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1118358245.0,
+                    "MONTO_MODIFICADO": 1177009769.67,
+                    "MONTO_EJERCIDO": 1177009769.67
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 999136683.0,
+                    "MONTO_MODIFICADO": 1139064710.46,
+                    "MONTO_EJERCIDO": 1139064710.46
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1006518491.0,
+                    "MONTO_MODIFICADO": 995578702.73,
+                    "MONTO_EJERCIDO": 995578702.73
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1011766001.0,
+                    "MONTO_MODIFICADO": 1085218386.0,
+                    "MONTO_EJERCIDO": 1085218386.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1054496931.0,
+                    "MONTO_MODIFICADO": 1090914294.3,
+                    "MONTO_EJERCIDO": 1090914294.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 7772000.0,
+                    "MONTO_EJERCIDO": 7772000.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1113702957.0,
+                    "MONTO_MODIFICADO": 1146214432.18,
+                    "MONTO_EJERCIDO": 1146214432.18
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 18445336.39,
+                    "MONTO_EJERCIDO": 18445336.39
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1185476510.0,
+                    "MONTO_MODIFICADO": 1247387855.8,
+                    "MONTO_EJERCIDO": 1247387855.8
+                }
+            ]
+        },
+        "Secretaría": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2356003501.0,
+                    "MONTO_MODIFICADO": 2566924987.04,
+                    "MONTO_EJERCIDO": 2566924987.04
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 25181813.0,
+                    "MONTO_MODIFICADO": 27335470.85,
+                    "MONTO_EJERCIDO": 27335470.85
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 374154762.0,
+                    "MONTO_MODIFICADO": 353491847.93,
+                    "MONTO_EJERCIDO": 353491847.93
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 180908445.35999998,
+                    "MONTO_EJERCIDO": 180908445.35999998
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2109309548.0,
+                    "MONTO_MODIFICADO": 5593152845.17,
+                    "MONTO_EJERCIDO": 5593152845.17
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 21359162.0,
+                    "MONTO_MODIFICADO": 71505511.63,
+                    "MONTO_EJERCIDO": 71505511.63
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 3766473322.0,
+                    "MONTO_MODIFICADO": 2667720956.12,
+                    "MONTO_EJERCIDO": 2667720956.12
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3041330.85,
+                    "MONTO_EJERCIDO": 3041330.85
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1855615962.0,
+                    "MONTO_MODIFICADO": 1707366797.6,
+                    "MONTO_EJERCIDO": 1707327365.91
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 1409122.0,
+                    "MONTO_MODIFICADO": 122238877.55,
+                    "MONTO_EJERCIDO": 122238877.55
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2800000000.0,
+                    "MONTO_MODIFICADO": 37787189000.0,
+                    "MONTO_EJERCIDO": 37787189000.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 5841255.33,
+                    "MONTO_EJERCIDO": 5841255.33
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1968400730.0,
+                    "MONTO_MODIFICADO": 1786216260.0,
+                    "MONTO_EJERCIDO": 1786216260.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 125409122.0,
+                    "MONTO_MODIFICADO": 28385743.0,
+                    "MONTO_EJERCIDO": 28385743.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2976000000.0,
+                    "MONTO_MODIFICADO": 1781010253.0,
+                    "MONTO_EJERCIDO": 1781010253.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2057203254.0,
+                    "MONTO_MODIFICADO": 2031208672.5,
+                    "MONTO_EJERCIDO": 2031208672.5
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 156380888.3,
+                    "MONTO_EJERCIDO": 156380888.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 12526968.0,
+                    "MONTO_EJERCIDO": 12526968.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2168604508.0,
+                    "MONTO_MODIFICADO": 1847761012.59,
+                    "MONTO_EJERCIDO": 1847761012.59
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 32432901.0,
+                    "MONTO_EJERCIDO": 32432901.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2249164316.0,
+                    "MONTO_MODIFICADO": 1942620312.85,
+                    "MONTO_EJERCIDO": 1942620312.85
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 22552665.0,
+                    "MONTO_EJERCIDO": 22552665.0
+                }
+            ]
+        },
+        "Servicio Geológico Mexicano": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 219699914.0,
+                    "MONTO_MODIFICADO": 541523280.3199999,
+                    "MONTO_EJERCIDO": 541523280.3199999
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 210120493.0,
+                    "MONTO_MODIFICADO": 216948040.67000002,
+                    "MONTO_EJERCIDO": 216948040.67000002
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 222170212.0,
+                    "MONTO_MODIFICADO": 227912020.05,
+                    "MONTO_EJERCIDO": 227912020.05
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 228838661.0,
+                    "MONTO_MODIFICADO": 229328717.0,
+                    "MONTO_EJERCIDO": 229328717.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 237051617.0,
+                    "MONTO_MODIFICADO": 246637029.8,
+                    "MONTO_EJERCIDO": 246637029.8
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 245845937.0,
+                    "MONTO_MODIFICADO": 261126469.18,
+                    "MONTO_EJERCIDO": 261126469.18
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 260627153.0,
+                    "MONTO_MODIFICADO": 271062061.89,
+                    "MONTO_EJERCIDO": 271062061.89
+                }
+            ]
+        }
+    },
+    "13": {
+        "Administración Portuaria Integral de Mazatlán, S.A. de C.V.": {
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 259999996.0,
+                    "MONTO_EJERCIDO": 259999996.0
+                }
+            ]
+        },
+        "Administración Portuaria Integral de Puerto Madero, S.A. de C.V.": {
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 13388704.0,
+                    "MONTO_EJERCIDO": 13388704.0
+                }
+            ]
+        },
+        "Administración del Sistema Portuario Nacional Acapulco, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1463079.09,
+                    "MONTO_EJERCIDO": 1463079.09
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 6601220.33,
+                    "MONTO_EJERCIDO": 6601220.33
+                }
+            ]
+        },
+        "Administración del Sistema Portuario Nacional Cabo San Lucas, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 66639.99,
+                    "MONTO_EJERCIDO": 66639.99
+                }
+            ]
+        },
+        "Administración del Sistema Portuario Nacional Coatzacoalcos, S.A. de C.V.": {
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 103654556.7,
+                    "MONTO_EJERCIDO": 103654556.7
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 287439999.9,
+                    "MONTO_EJERCIDO": 287439999.9
+                }
+            ]
+        },
+        "Administración del Sistema Portuario Nacional Dos Bocas, S.A. de C.V.": {
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1418936665.58,
+                    "MONTO_EJERCIDO": 1418936665.58
+                }
+            ]
+        },
+        "Administración del Sistema Portuario Nacional Puerto Chiapas, S.A. de C.V.": {
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 24947981.0,
+                    "MONTO_MODIFICADO": 25508069.4,
+                    "MONTO_EJERCIDO": 25508069.4
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 26327235.0,
+                    "MONTO_MODIFICADO": 26544922.990000002,
+                    "MONTO_EJERCIDO": 26544922.990000002
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 98917717.0,
+                    "MONTO_EJERCIDO": 98917717.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 31160199.0,
+                    "MONTO_MODIFICADO": 30999857.73,
+                    "MONTO_EJERCIDO": 30999857.73
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 735654592.9499999,
+                    "MONTO_EJERCIDO": 735654592.9499999
+                }
+            ]
+        },
+        "Administración del Sistema Portuario Nacional Salina Cruz, S.A. de C.V.": {
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1070007573.9000001,
+                    "MONTO_EJERCIDO": 1070007573.9000001
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3112616039.5899997,
+                    "MONTO_EJERCIDO": 3112616039.5899997
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 122781984.93,
+                    "MONTO_EJERCIDO": 122781984.93
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2209273712.64,
+                    "MONTO_EJERCIDO": 2209273712.64
+                }
+            ]
+        },
+        "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": {
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 587532026.81,
+                    "MONTO_EJERCIDO": 587532026.81
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 595070385.19,
+                    "MONTO_EJERCIDO": 595070385.19
+                }
+            ]
+        },
+        "Corredor Interoceánico del Istmo de Tehuantepec": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 100063068.41,
+                    "MONTO_EJERCIDO": 100063068.41
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 75548225.0,
+                    "MONTO_MODIFICADO": 30909453384.79,
+                    "MONTO_EJERCIDO": 30909453384.79
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 17058394260.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 429727518.07,
+                    "MONTO_EJERCIDO": 429727518.07
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3104459731.76,
+                    "MONTO_EJERCIDO": 3104459731.76
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 138697717.0,
+                    "MONTO_MODIFICADO": 592066636.25,
+                    "MONTO_EJERCIDO": 592066636.25
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 3786707030.0,
+                    "MONTO_MODIFICADO": 30340263002.97,
+                    "MONTO_EJERCIDO": 30340263002.97
+                }
+            ]
+        },
+        "Fideicomiso Universidad Marítima y Portuaria de México": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 96036920.0,
+                    "MONTO_MODIFICADO": 93419011.32,
+                    "MONTO_EJERCIDO": 93419011.32
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 102904751.0,
+                    "MONTO_MODIFICADO": 97468647.57000001,
+                    "MONTO_EJERCIDO": 97468647.57000001
+                }
+            ]
+        },
+        "Fideicomiso Universidad Marítima y Portuaria de México    ": {
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 90741671.0,
+                    "MONTO_MODIFICADO": 88374978.8,
+                    "MONTO_EJERCIDO": 88374978.8
+                }
+            ]
+        },
+        "Fideicomiso de Formación y Capacitación para el personal de la Marina Mercante Nacional": {
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 54339570.0,
+                    "MONTO_EJERCIDO": 54339570.0
+                }
+            ]
+        },
+        "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 53765264.79,
+                    "MONTO_EJERCIDO": 53765264.79
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 276318302.06,
+                    "MONTO_EJERCIDO": 276318302.06
+                }
+            ]
+        },
+        "Secretaría": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 24397658165.0,
+                    "MONTO_MODIFICADO": 29059970321.7,
+                    "MONTO_EJERCIDO": 29059970321.7
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 5483859792.0,
+                    "MONTO_MODIFICADO": 3241550530.71,
+                    "MONTO_EJERCIDO": 3241550530.71
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1424257239.0,
+                    "MONTO_MODIFICADO": 3280095817.4,
+                    "MONTO_EJERCIDO": 3280095817.4
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 29566435389.0,
+                    "MONTO_MODIFICADO": 30191797108.39,
+                    "MONTO_EJERCIDO": 30191797108.39
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2216939803.0,
+                    "MONTO_MODIFICADO": 3377052200.25,
+                    "MONTO_EJERCIDO": 3377052200.25
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 300000000.0,
+                    "MONTO_MODIFICADO": 426068021.02,
+                    "MONTO_EJERCIDO": 426068021.02
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 30482933981.0,
+                    "MONTO_MODIFICADO": 31036323020.09,
+                    "MONTO_EJERCIDO": 31036323020.09
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2730170699.0,
+                    "MONTO_MODIFICADO": 4524791403.059999,
+                    "MONTO_EJERCIDO": 4524791403.059999
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 344680914.0,
+                    "MONTO_MODIFICADO": 574205656.9300001,
+                    "MONTO_EJERCIDO": 574205656.9300001
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 32506532580.0,
+                    "MONTO_MODIFICADO": 35947804558.0,
+                    "MONTO_EJERCIDO": 35947804558.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2730182931.0,
+                    "MONTO_MODIFICADO": 4403040506.0,
+                    "MONTO_EJERCIDO": 4403040506.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 240000000.0,
+                    "MONTO_MODIFICADO": 2135863450.0,
+                    "MONTO_EJERCIDO": 2135863450.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 35005880267.0,
+                    "MONTO_MODIFICADO": 38267114592.7,
+                    "MONTO_EJERCIDO": 38267114592.7
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2628621193.0,
+                    "MONTO_MODIFICADO": 3777416596.7,
+                    "MONTO_EJERCIDO": 3777416596.7
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2954235289.0,
+                    "MONTO_EJERCIDO": 2954235289.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 37413594950.0,
+                    "MONTO_MODIFICADO": 42546872126.99,
+                    "MONTO_EJERCIDO": 42546864261.99
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2420133488.0,
+                    "MONTO_MODIFICADO": 4032474823.0499997,
+                    "MONTO_EJERCIDO": 4032474823.0499997
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1922050000.0,
+                    "MONTO_MODIFICADO": 3663499251.76,
+                    "MONTO_EJERCIDO": 3663499251.76
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 42354321421.0,
+                    "MONTO_MODIFICADO": 47701255499.51,
+                    "MONTO_EJERCIDO": 47701255499.51
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2723820453.0,
+                    "MONTO_MODIFICADO": 4901204911.8,
+                    "MONTO_EJERCIDO": 4901204911.8
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 5616658479.0,
+                    "MONTO_MODIFICADO": 6664559888.02,
+                    "MONTO_EJERCIDO": 6664559888.02
+                }
+            ]
+        },
+        "Turística Integral Islas Marías, S.A. de C.V.": {
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 990000.0,
+                    "MONTO_EJERCIDO": 990000.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3531552.04,
+                    "MONTO_EJERCIDO": 3531552.04
+                }
+            ]
+        }
+    },
+    "15": {
+        "Comisión Nacional de Vivienda": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 6735712918.0,
+                    "MONTO_MODIFICADO": 5308734309.3,
+                    "MONTO_EJERCIDO": 5308734309.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 201120099.0,
+                    "MONTO_MODIFICADO": 191357164.32000002,
+                    "MONTO_EJERCIDO": 191357164.32000002
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 745580995.4,
+                    "MONTO_EJERCIDO": 745580995.4
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 9134143860.0,
+                    "MONTO_MODIFICADO": 8880962523.72,
+                    "MONTO_EJERCIDO": 8880962523.72
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 312578902.0,
+                    "MONTO_MODIFICADO": 270879033.49,
+                    "MONTO_EJERCIDO": 270879033.49
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 263985106.45,
+                    "MONTO_EJERCIDO": 263985106.45
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5274093907.0,
+                    "MONTO_MODIFICADO": 5616353970.490001,
+                    "MONTO_EJERCIDO": 5616353970.490001
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 260477496.0,
+                    "MONTO_MODIFICADO": 192848182.78,
+                    "MONTO_EJERCIDO": 192848182.78
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 425039559.15,
+                    "MONTO_EJERCIDO": 425039559.15
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5105413708.0,
+                    "MONTO_MODIFICADO": 5508891202.0,
+                    "MONTO_EJERCIDO": 5508891202.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 79065193.0,
+                    "MONTO_MODIFICADO": 165523175.0,
+                    "MONTO_EJERCIDO": 165523175.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 135000000.0,
+                    "MONTO_MODIFICADO": 125071050.0,
+                    "MONTO_EJERCIDO": 125071050.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5274808151.0,
+                    "MONTO_MODIFICADO": 6243299600.3,
+                    "MONTO_EJERCIDO": 6243299600.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 77884816.0,
+                    "MONTO_MODIFICADO": 176247810.5,
+                    "MONTO_EJERCIDO": 176247810.5
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 140066513.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 4790918608.0,
+                    "MONTO_MODIFICADO": 5731806541.599999,
+                    "MONTO_EJERCIDO": 5731806541.599999
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 297861900.0,
+                    "MONTO_MODIFICADO": 219917024.18,
+                    "MONTO_EJERCIDO": 219917024.18
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 147168760.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 4448527113.0,
+                    "MONTO_MODIFICADO": 4841127396.63,
+                    "MONTO_EJERCIDO": 4841127396.63
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 245123272.0,
+                    "MONTO_MODIFICADO": 218112740.02,
+                    "MONTO_EJERCIDO": 218112740.02
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 155052697.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Fideicomiso Fondo Nacional de Fomento Ejidal": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3997196.82,
+                    "MONTO_EJERCIDO": 3997196.82
+                }
+            ]
+        },
+        "Instituto Nacional del Suelo Sustentable": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 100000000.0,
+                    "MONTO_MODIFICADO": 149342415.88,
+                    "MONTO_EJERCIDO": 149342415.88
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 622719261.0,
+                    "MONTO_MODIFICADO": 341905560.59000003,
+                    "MONTO_EJERCIDO": 341905560.59000003
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 18430497.0,
+                    "MONTO_MODIFICADO": 5549664.59,
+                    "MONTO_EJERCIDO": 5549664.59
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 509909224.0,
+                    "MONTO_MODIFICADO": 387647175.19000006,
+                    "MONTO_EJERCIDO": 387647175.19000006
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 19664289.0,
+                    "MONTO_MODIFICADO": 10539767.05,
+                    "MONTO_EJERCIDO": 10539767.05
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 409866805.0,
+                    "MONTO_MODIFICADO": 409993607.0,
+                    "MONTO_EJERCIDO": 409993607.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 7070318.0,
+                    "MONTO_MODIFICADO": 6917856.0,
+                    "MONTO_EJERCIDO": 6917856.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 345393468.0,
+                    "MONTO_MODIFICADO": 341363612.1,
+                    "MONTO_EJERCIDO": 341363612.1
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 3950318.0,
+                    "MONTO_MODIFICADO": 3747706.6999999997,
+                    "MONTO_EJERCIDO": 3747706.6999999997
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 285980879.0,
+                    "MONTO_MODIFICADO": 308645410.0,
+                    "MONTO_EJERCIDO": 308645410.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 856114.0,
+                    "MONTO_MODIFICADO": 767376.04,
+                    "MONTO_EJERCIDO": 767376.04
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 301975086.0,
+                    "MONTO_MODIFICADO": 301395950.03,
+                    "MONTO_EJERCIDO": 301395950.03
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 692493.0,
+                    "MONTO_MODIFICADO": 167040.0,
+                    "MONTO_EJERCIDO": 167040.0
+                }
+            ]
+        },
+        "Procuraduría Agraria": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 937300558.0,
+                    "MONTO_MODIFICADO": 1065478774.87,
+                    "MONTO_EJERCIDO": 1065478774.87
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 852842607.0,
+                    "MONTO_MODIFICADO": 925738407.48,
+                    "MONTO_EJERCIDO": 925738407.48
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 930651523.0,
+                    "MONTO_MODIFICADO": 870859480.75,
+                    "MONTO_EJERCIDO": 870859480.75
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 861287058.0,
+                    "MONTO_MODIFICADO": 957704169.0,
+                    "MONTO_EJERCIDO": 957704169.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 893863620.0,
+                    "MONTO_MODIFICADO": 1004637082.7,
+                    "MONTO_EJERCIDO": 1004637082.7
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 950522197.0,
+                    "MONTO_MODIFICADO": 1056277522.48,
+                    "MONTO_EJERCIDO": 1056277522.48
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1012758990.0,
+                    "MONTO_MODIFICADO": 1104724610.42,
+                    "MONTO_EJERCIDO": 1104724610.42
+                }
+            ]
+        },
+        "Registro Agrario Nacional": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 720930329.0,
+                    "MONTO_MODIFICADO": 801657576.15,
+                    "MONTO_EJERCIDO": 801657576.15
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 9000000.0,
+                    "MONTO_MODIFICADO": 8870243.15,
+                    "MONTO_EJERCIDO": 8870243.15
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 703061457.0,
+                    "MONTO_MODIFICADO": 717220153.65,
+                    "MONTO_EJERCIDO": 717220153.65
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 8218901.0,
+                    "MONTO_MODIFICADO": 7767801.83,
+                    "MONTO_EJERCIDO": 7767801.83
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 719594789.0,
+                    "MONTO_MODIFICADO": 636299632.52,
+                    "MONTO_EJERCIDO": 636299632.52
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 7293822.0,
+                    "MONTO_MODIFICADO": 1856216.1500000001,
+                    "MONTO_EJERCIDO": 1856216.1500000001
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 708883172.0,
+                    "MONTO_MODIFICADO": 700046616.0,
+                    "MONTO_EJERCIDO": 700046616.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 7293822.0,
+                    "MONTO_MODIFICADO": 7262624.0,
+                    "MONTO_EJERCIDO": 7262624.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 736532300.0,
+                    "MONTO_MODIFICADO": 753850948.7,
+                    "MONTO_EJERCIDO": 753850948.7
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 7293822.0,
+                    "MONTO_MODIFICADO": 6353065.4,
+                    "MONTO_EJERCIDO": 6353065.4
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 781025203.0,
+                    "MONTO_MODIFICADO": 831823915.69,
+                    "MONTO_EJERCIDO": 831823915.69
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 7702018.0,
+                    "MONTO_MODIFICADO": 7524543.7,
+                    "MONTO_EJERCIDO": 7524543.7
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 828473615.0,
+                    "MONTO_MODIFICADO": 887647258.62,
+                    "MONTO_EJERCIDO": 887647258.62
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 7008763.0,
+                    "MONTO_MODIFICADO": 5812250.88,
+                    "MONTO_EJERCIDO": 5812250.88
+                }
+            ]
+        },
+        "Secretaría": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5608147336.0,
+                    "MONTO_MODIFICADO": 9985523516.53,
+                    "MONTO_EJERCIDO": 9985123793.06
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 311799427.0,
+                    "MONTO_MODIFICADO": 156197298.64,
+                    "MONTO_EJERCIDO": 156197298.64
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 6204160062.0,
+                    "MONTO_MODIFICADO": 6468099665.94,
+                    "MONTO_EJERCIDO": 6468099665.94
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 698783743.0,
+                    "MONTO_MODIFICADO": 200220722.28,
+                    "MONTO_EJERCIDO": 200220722.28
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 200000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2974271276.0,
+                    "MONTO_MODIFICADO": 5510619035.879999,
+                    "MONTO_EJERCIDO": 5510619035.879999
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 243302296.0,
+                    "MONTO_MODIFICADO": 192974614.3,
+                    "MONTO_EJERCIDO": 192974614.3
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 8991963811.0,
+                    "MONTO_MODIFICADO": 10709287069.0,
+                    "MONTO_EJERCIDO": 10709287069.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 314500357.0,
+                    "MONTO_MODIFICADO": 285893623.0,
+                    "MONTO_EJERCIDO": 285893623.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5221607979.0,
+                    "MONTO_MODIFICADO": 8232204867.1,
+                    "MONTO_EJERCIDO": 8232204867.1
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 167069208.0,
+                    "MONTO_MODIFICADO": 284090446.2,
+                    "MONTO_EJERCIDO": 284090446.2
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 7702767406.0,
+                    "MONTO_MODIFICADO": 12775143503.2,
+                    "MONTO_EJERCIDO": 12775143503.2
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 299940663.0,
+                    "MONTO_MODIFICADO": 327478984.36,
+                    "MONTO_EJERCIDO": 327478984.36
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5584523913.0,
+                    "MONTO_MODIFICADO": 7411784553.64,
+                    "MONTO_EJERCIDO": 7411784553.64
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 296133892.0,
+                    "MONTO_MODIFICADO": 302851467.74,
+                    "MONTO_EJERCIDO": 302851467.74
+                }
+            ]
+        }
+    },
+    "36": {
+        "Guardia Nacional": {
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 861320807.34,
+                    "MONTO_EJERCIDO": 861320807.34
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 3842200000.0,
+                    "MONTO_MODIFICADO": 19870455331.85,
+                    "MONTO_EJERCIDO": 19857947888.11
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 41092100.0,
+                    "MONTO_EJERCIDO": 41092100.0
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 35671578458.0,
+                    "MONTO_MODIFICADO": 24561277038.0,
+                    "MONTO_EJERCIDO": 24561140033.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1165495183.0,
+                    "MONTO_EJERCIDO": 1165495183.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 43423174163.0,
+                    "MONTO_MODIFICADO": 25791077411.5,
+                    "MONTO_EJERCIDO": 25791060543.5
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 5966891935.0,
+                    "MONTO_MODIFICADO": 89426378.2,
+                    "MONTO_EJERCIDO": 89426378.2
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 13435313676.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 49702238583.0,
+                    "MONTO_MODIFICADO": 24419039226.11,
+                    "MONTO_EJERCIDO": 24419039226.11
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 6231000000.0,
+                    "MONTO_MODIFICADO": 13553792.78,
+                    "MONTO_EJERCIDO": 13553792.78
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 11893500000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 54044799340.0,
+                    "MONTO_MODIFICADO": 34548063693.56,
+                    "MONTO_EJERCIDO": 34548063693.56
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 5870369913.0,
+                    "MONTO_MODIFICADO": 49770067.57,
+                    "MONTO_EJERCIDO": 49770067.57
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 10852265324.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        }
+    },
+    "47": {
+        "Administración Portuaria Integral de Coatzacoalcos, S.A. de C.V.": {
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 272000000.0,
+                    "MONTO_EJERCIDO": 272000000.0
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 77147721.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Administración Portuaria Integral de Salina Cruz, S.A. de C.V.": {
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 277554043.02,
+                    "MONTO_EJERCIDO": 277554043.02
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1847036707.0,
+                    "MONTO_MODIFICADO": 714330691.0,
+                    "MONTO_EJERCIDO": 714330691.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 742754418.4,
+                    "MONTO_EJERCIDO": 742754418.4
+                }
+            ]
+        },
+        "Corredor Interoceánico del Istmo de Tehuantepec": {
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 292638891.0,
+                    "MONTO_MODIFICADO": 83438694.31,
+                    "MONTO_EJERCIDO": 83438694.31
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 65012909.07,
+                    "MONTO_EJERCIDO": 65012909.07
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 3195000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 257318098.0,
+                    "MONTO_MODIFICADO": 108948542.0,
+                    "MONTO_EJERCIDO": 108948542.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 85356000.0,
+                    "MONTO_EJERCIDO": 85356000.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 200000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 265865648.0,
+                    "MONTO_MODIFICADO": 120879592.9,
+                    "MONTO_EJERCIDO": 120879592.9
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 208607083.5,
+                    "MONTO_EJERCIDO": 208607083.5
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 10000000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 480326850.0,
+                    "MONTO_MODIFICADO": 65267688.16,
+                    "MONTO_EJERCIDO": 63144140.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 91483632.83,
+                    "MONTO_EJERCIDO": 91483632.83
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 6800000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": {
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 544596849.76,
+                    "MONTO_EJERCIDO": 544596849.76
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1027125139.36,
+                    "MONTO_EJERCIDO": 1027125139.36
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 366570617.0,
+                    "MONTO_MODIFICADO": 413158037.0,
+                    "MONTO_EJERCIDO": 413158037.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1384915572.0,
+                    "MONTO_MODIFICADO": 684114815.0,
+                    "MONTO_EJERCIDO": 684114815.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 380604113.0,
+                    "MONTO_MODIFICADO": 226305613.6,
+                    "MONTO_EJERCIDO": 226305613.6
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2386359183.3,
+                    "MONTO_EJERCIDO": 2386359183.3
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 401884088.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Sistema Público de Radiodifusión del Estado Mexicano": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 220158647.0,
+                    "MONTO_MODIFICADO": 443607448.13,
+                    "MONTO_EJERCIDO": 443607448.13
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 205371749.0,
+                    "MONTO_MODIFICADO": 210497798.29999998,
+                    "MONTO_EJERCIDO": 210497798.29999998
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 214316900.0,
+                    "MONTO_MODIFICADO": 216557228.21,
+                    "MONTO_EJERCIDO": 216557228.21
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 51319846.46,
+                    "MONTO_EJERCIDO": 51319846.46
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 16049361.82,
+                    "MONTO_EJERCIDO": 16049361.82
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 214322196.0,
+                    "MONTO_MODIFICADO": 226941636.0,
+                    "MONTO_EJERCIDO": 226941636.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 800000000.0,
+                    "MONTO_MODIFICADO": 283592809.0,
+                    "MONTO_EJERCIDO": 283592809.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 52559891.0,
+                    "MONTO_EJERCIDO": 52559891.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 218960482.0,
+                    "MONTO_MODIFICADO": 276474991.3,
+                    "MONTO_EJERCIDO": 276474991.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 780000000.0,
+                    "MONTO_MODIFICADO": 77935068.1,
+                    "MONTO_EJERCIDO": 77935068.1
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 59446223.5,
+                    "MONTO_EJERCIDO": 59446223.5
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 230201005.0,
+                    "MONTO_MODIFICADO": 286509621.37,
+                    "MONTO_EJERCIDO": 286509621.37
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 299000000.0,
+                    "MONTO_MODIFICADO": 131405275.73,
+                    "MONTO_EJERCIDO": 131405275.73
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 96000000.0,
+                    "MONTO_MODIFICADO": 64031549.09,
+                    "MONTO_EJERCIDO": 64031549.09
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 242464593.0,
+                    "MONTO_MODIFICADO": 458037839.09999996,
+                    "MONTO_EJERCIDO": 458037839.09999996
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 313428813.0,
+                    "MONTO_MODIFICADO": 138425608.69,
+                    "MONTO_EJERCIDO": 138425608.69
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 100632662.0,
+                    "MONTO_MODIFICADO": 23665342.919999998,
+                    "MONTO_EJERCIDO": 23665342.919999998
+                }
+            ]
+        }
+    },
+    "7": {
+        "Aerolínea del Estado Mexicano, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 873219970.5699999,
+                    "MONTO_EJERCIDO": 873219970.5699999
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 119673172.0,
+                    "MONTO_MODIFICADO": 1426274142.73,
+                    "MONTO_EJERCIDO": 1426271328.73
+                }
+            ]
+        },
+        "Aeropuerto Internacional Felipe Ángeles, S.A. de C.V.": {
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 237858985.0,
+                    "MONTO_EJERCIDO": 224976588.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 419449081.0,
+                    "MONTO_MODIFICADO": 1328085611.8,
+                    "MONTO_EJERCIDO": 1328085611.8
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 836230355.0,
+                    "MONTO_MODIFICADO": 1483995896.16,
+                    "MONTO_EJERCIDO": 1483995896.16
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 1500000001.0,
+                    "MONTO_MODIFICADO": 1510248515.09,
+                    "MONTO_EJERCIDO": 1510248515.09
+                }
+            ]
+        },
+        "Grupo Aeroportuario, Ferroviario, de Servicios Auxiliares y Conexos, Olmeca-Maya-Mexica, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 15172754614.0,
+                    "MONTO_MODIFICADO": 3581190042.55,
+                    "MONTO_EJERCIDO": 3581190042.52
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1603570425.0,
+                    "MONTO_EJERCIDO": 1603570425.0
+                }
+            ]
+        },
+        "Secretaría": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 67291520800.0,
+                    "MONTO_MODIFICADO": 72220971740.22,
+                    "MONTO_EJERCIDO": 72211349022.15
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 181164606.20999998,
+                    "MONTO_EJERCIDO": 181164606.20999998
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 13730383013.0,
+                    "MONTO_MODIFICADO": 5367168059.21,
+                    "MONTO_EJERCIDO": 5366906555.24
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1017024351.86,
+                    "MONTO_EJERCIDO": 1017024351.86
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2159712145.11,
+                    "MONTO_EJERCIDO": 2159712145.11
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 72536986617.0,
+                    "MONTO_MODIFICADO": 74106961206.68001,
+                    "MONTO_EJERCIDO": 74106943685.49
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2640614149.83,
+                    "MONTO_EJERCIDO": 2640614149.83
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 4831972033.0,
+                    "MONTO_MODIFICADO": 3362629105.39,
+                    "MONTO_EJERCIDO": 3362629105.39
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 23847088100.38,
+                    "MONTO_EJERCIDO": 23847088100.38
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 16301228760.0,
+                    "MONTO_MODIFICADO": 7660912291.099999,
+                    "MONTO_EJERCIDO": 7660912291.099999
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 85038833720.0,
+                    "MONTO_MODIFICADO": 79906492368.0,
+                    "MONTO_EJERCIDO": 79783267552.56999
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 858379272.25,
+                    "MONTO_EJERCIDO": 858379272.25
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2448908054.0,
+                    "MONTO_MODIFICADO": 2806583580.0,
+                    "MONTO_EJERCIDO": 2804407653.25
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 26549265396.0,
+                    "MONTO_EJERCIDO": 26549265396.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 6540952472.0,
+                    "MONTO_MODIFICADO": 14056509208.12,
+                    "MONTO_EJERCIDO": 14056052133.8
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 83470694720.0,
+                    "MONTO_MODIFICADO": 88657805380.0,
+                    "MONTO_EJERCIDO": 88647598297.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1177845935.0,
+                    "MONTO_EJERCIDO": 1177845935.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2271643921.0,
+                    "MONTO_MODIFICADO": 3482666576.0,
+                    "MONTO_EJERCIDO": 3477374519.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 44137503894.0,
+                    "MONTO_EJERCIDO": 44137503894.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 26814830015.0,
+                    "MONTO_MODIFICADO": 1251394096.0,
+                    "MONTO_EJERCIDO": 1251394096.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 90618194128.0,
+                    "MONTO_MODIFICADO": 93413347368.5,
+                    "MONTO_EJERCIDO": 93413347368.5
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2967344059.3,
+                    "MONTO_EJERCIDO": 2967344059.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 2038880332.0,
+                    "MONTO_MODIFICADO": 4244126478.8,
+                    "MONTO_EJERCIDO": 4244126478.8
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 36798895088.0,
+                    "MONTO_EJERCIDO": 36798895088.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 11031382010.0,
+                    "MONTO_MODIFICADO": 2449372168.3,
+                    "MONTO_EJERCIDO": 2449372168.3
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 101288875010.0,
+                    "MONTO_MODIFICADO": 105830945404.92,
+                    "MONTO_EJERCIDO": 105830945404.92
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2482269987.08,
+                    "MONTO_EJERCIDO": 2482269987.08
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 7979532912.0,
+                    "MONTO_MODIFICADO": 5733084752.51,
+                    "MONTO_EJERCIDO": 5733084752.51
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 14369002179.32,
+                    "MONTO_EJERCIDO": 14369002179.32
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1807000000.0,
+                    "MONTO_MODIFICADO": 3167267178.3999996,
+                    "MONTO_EJERCIDO": 3167267178.3999996
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 109095082296.0,
+                    "MONTO_MODIFICADO": 117325802308.97,
+                    "MONTO_EJERCIDO": 117325802308.97
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 23743345993.23,
+                    "MONTO_EJERCIDO": 23743345993.23
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 7609032326.0,
+                    "MONTO_MODIFICADO": 5307720839.440001,
+                    "MONTO_EJERCIDO": 5307720839.440001
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 49132246669.15,
+                    "MONTO_EJERCIDO": 49132246669.15
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2778111557.67,
+                    "MONTO_EJERCIDO": 2778111557.67
+                }
+            ]
+        },
+        "Tren Maya, S.A. de C.V.": {
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 9402828548.92,
+                    "MONTO_EJERCIDO": 9402828548.92
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 717428683.04,
+                    "MONTO_EJERCIDO": 717428683.04
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5937262358.0,
+                    "MONTO_MODIFICADO": 12428988096.93,
+                    "MONTO_EJERCIDO": 12428988096.93
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 24647625540.0,
+                    "MONTO_MODIFICADO": 4190671892.95,
+                    "MONTO_EJERCIDO": 4190671892.95
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 95352374459.0,
+                    "MONTO_MODIFICADO": 13293028527.529999,
+                    "MONTO_EJERCIDO": 13293028527.529999
+                }
+            ]
+        }
+    },
+    "9": {
+        "Administración Portuaria Integral de Ensenada, S.A. de C.V.": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 68442520.59,
+                    "MONTO_EJERCIDO": 68442520.59
+                }
+            ]
+        },
+        "Administración Portuaria Integral de Puerto Madero, S.A. de C.V.": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 24564533.0,
+                    "MONTO_MODIFICADO": 34631819.14,
+                    "MONTO_EJERCIDO": 34631819.14
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 28776402.0,
+                    "MONTO_EJERCIDO": 28776402.0
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 22427547.0,
+                    "MONTO_MODIFICADO": 24565949.04,
+                    "MONTO_EJERCIDO": 24565949.04
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 22736000.0,
+                    "MONTO_EJERCIDO": 22736000.0
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 24262126.0,
+                    "MONTO_MODIFICADO": 23926753.88,
+                    "MONTO_EJERCIDO": 23926753.88
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 41264000.0,
+                    "MONTO_EJERCIDO": 41264000.0
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 24221304.0,
+                    "MONTO_MODIFICADO": 10699054.0,
+                    "MONTO_EJERCIDO": 10699054.0
+                }
+            ]
+        },
+        "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": {
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1918575745.8,
+                    "MONTO_EJERCIDO": 1918575745.8
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 3053290524.0,
+                    "MONTO_MODIFICADO": 1446718892.29,
+                    "MONTO_EJERCIDO": 1446718892.29
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 16302304.0,
+                    "MONTO_EJERCIDO": 16302304.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1023582000.0,
+                    "MONTO_MODIFICADO": 333386350.0,
+                    "MONTO_EJERCIDO": 333386350.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 23119182.0,
+                    "MONTO_MODIFICADO": 18400000.0,
+                    "MONTO_EJERCIDO": 18400000.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 657732757.0,
+                    "MONTO_MODIFICADO": 545336309.6,
+                    "MONTO_EJERCIDO": 545336309.6
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 95760850.0,
+                    "MONTO_MODIFICADO": 20629184.0,
+                    "MONTO_EJERCIDO": 20629184.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1372842171.0,
+                    "MONTO_MODIFICADO": 666334344.0,
+                    "MONTO_EJERCIDO": 666334344.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 95805995.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 1404194005.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Aeropuertos y Servicios Auxiliares": {
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 3000000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3577845.0,
+                    "MONTO_EJERCIDO": 3577845.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 472706960.0,
+                    "MONTO_EJERCIDO": 472706960.0
+                }
+            ]
+        },
+        "Agencia Federal de Aviación Civil": {
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 60308450.07,
+                    "MONTO_EJERCIDO": 60308450.07
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 379708886.0,
+                    "MONTO_MODIFICADO": 551770663.0,
+                    "MONTO_EJERCIDO": 551770663.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 500640287.0,
+                    "MONTO_MODIFICADO": 943866000.9,
+                    "MONTO_EJERCIDO": 943866000.9
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 678696465.0,
+                    "MONTO_MODIFICADO": 902092914.18,
+                    "MONTO_EJERCIDO": 902092914.18
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 712019682.0,
+                    "MONTO_MODIFICADO": 873443454.5,
+                    "MONTO_EJERCIDO": 873443454.5
+                }
+            ]
+        },
+        "Agencia Reguladora del Transporte Ferroviario": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 151471172.0,
+                    "MONTO_MODIFICADO": 51079052.44,
+                    "MONTO_EJERCIDO": 51079052.44
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 50000000.0,
+                    "MONTO_EJERCIDO": 50000000.0
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 136330267.0,
+                    "MONTO_MODIFICADO": 38670789.88,
+                    "MONTO_EJERCIDO": 38670789.88
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 60000000.0,
+                    "MONTO_EJERCIDO": 60000000.0
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 29346275.0,
+                    "MONTO_MODIFICADO": 38661803.269999996,
+                    "MONTO_EJERCIDO": 38661803.269999996
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 45535702.0,
+                    "MONTO_MODIFICADO": 45753412.0,
+                    "MONTO_EJERCIDO": 45753412.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 46808967.0,
+                    "MONTO_MODIFICADO": 49033888.3,
+                    "MONTO_EJERCIDO": 49033888.3
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 49321897.0,
+                    "MONTO_MODIFICADO": 54825836.87,
+                    "MONTO_EJERCIDO": 54825836.87
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 52338744.0,
+                    "MONTO_MODIFICADO": 54515303.52,
+                    "MONTO_EJERCIDO": 54515303.52
+                }
+            ]
+        },
+        "Caminos y Puentes Federales de Ingresos y Servicios Conexos": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 218175005.0,
+                    "MONTO_MODIFICADO": 148227256.25,
+                    "MONTO_EJERCIDO": 148227256.25
+                }
+            ]
+        },
+        "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 76276462.0,
+                    "MONTO_MODIFICADO": 396542869.73,
+                    "MONTO_EJERCIDO": 396542869.73
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 645631597.0,
+                    "MONTO_MODIFICADO": 349814105.0,
+                    "MONTO_EJERCIDO": 349814105.0
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 69140674.0,
+                    "MONTO_MODIFICADO": 505433654.68,
+                    "MONTO_EJERCIDO": 505433654.68
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 500000000.0,
+                    "MONTO_MODIFICADO": 701868387.1,
+                    "MONTO_EJERCIDO": 701868387.1
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 395752275.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante Nacional": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 75715784.0,
+                    "MONTO_MODIFICADO": 81358380.08,
+                    "MONTO_EJERCIDO": 81358380.08
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 71076833.0,
+                    "MONTO_MODIFICADO": 76214014.0,
+                    "MONTO_EJERCIDO": 76214014.0
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 79223340.0,
+                    "MONTO_MODIFICADO": 79700344.53,
+                    "MONTO_EJERCIDO": 79700344.53
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 81142262.0,
+                    "MONTO_MODIFICADO": 28727013.0,
+                    "MONTO_EJERCIDO": 28727013.0
+                }
+            ]
+        },
+        "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 313397234.0,
+                    "MONTO_MODIFICADO": 383600560.96,
+                    "MONTO_EJERCIDO": 383600560.96
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 547207857.0,
+                    "MONTO_EJERCIDO": 547207857.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 59686922147.16,
+                    "MONTO_EJERCIDO": 59686922147.16
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 5500000000.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 262876744.0,
+                    "MONTO_MODIFICADO": 272918189.75,
+                    "MONTO_EJERCIDO": 272918189.75
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 272758463.0,
+                    "MONTO_MODIFICADO": 209079795.08,
+                    "MONTO_EJERCIDO": 209079795.08
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 243739694.0,
+                    "MONTO_MODIFICADO": 209574197.0,
+                    "MONTO_EJERCIDO": 209574197.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 248376885.0,
+                    "MONTO_MODIFICADO": 157234260.4,
+                    "MONTO_EJERCIDO": 157234260.4
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 259729523.0,
+                    "MONTO_MODIFICADO": 92227107.67,
+                    "MONTO_EJERCIDO": 92227107.67
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 274715325.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        },
+        "Instituto Mexicano del Transporte": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 146447335.0,
+                    "MONTO_MODIFICADO": 166101090.55,
+                    "MONTO_EJERCIDO": 165797505.55
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 9999.0,
+                    "MONTO_EJERCIDO": 9999.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 35178298.05,
+                    "MONTO_EJERCIDO": 35178298.05
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 136464147.0,
+                    "MONTO_MODIFICADO": 160627590.97,
+                    "MONTO_EJERCIDO": 160627590.97
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 473496.83,
+                    "MONTO_EJERCIDO": 473496.83
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 151262037.0,
+                    "MONTO_MODIFICADO": 152872136.8,
+                    "MONTO_EJERCIDO": 152872136.8
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 151882703.0,
+                    "MONTO_MODIFICADO": 166476653.0,
+                    "MONTO_EJERCIDO": 166476653.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 157657971.0,
+                    "MONTO_MODIFICADO": 165684353.9,
+                    "MONTO_EJERCIDO": 165684353.9
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 163076318.0,
+                    "MONTO_MODIFICADO": 207346304.85,
+                    "MONTO_EJERCIDO": 207346304.85
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 173113409.0,
+                    "MONTO_MODIFICADO": 189146494.64,
+                    "MONTO_EJERCIDO": 189146494.64
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1714653.63,
+                    "MONTO_EJERCIDO": 1714653.63
+                }
+            ]
+        },
+        "Organismo Promotor de Inversiones en Telecomunicaciones": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 173805076.0,
+                    "MONTO_MODIFICADO": 175390965.46,
+                    "MONTO_EJERCIDO": 175390965.46
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 154526612.0,
+                    "MONTO_MODIFICADO": 96450606.71,
+                    "MONTO_EJERCIDO": 96450606.71
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 168563265.0,
+                    "MONTO_MODIFICADO": 82877286.28,
+                    "MONTO_EJERCIDO": 82877286.28
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 137569028.0,
+                    "MONTO_MODIFICADO": 105855705.0,
+                    "MONTO_EJERCIDO": 105855705.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 138435510.0,
+                    "MONTO_MODIFICADO": 104021064.9,
+                    "MONTO_EJERCIDO": 104021064.9
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 141408394.0,
+                    "MONTO_MODIFICADO": 115670287.35,
+                    "MONTO_EJERCIDO": 115670287.35
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 149484698.0,
+                    "MONTO_MODIFICADO": 2861089041.4399996,
+                    "MONTO_EJERCIDO": 2861089041.4399996
+                }
+            ]
+        },
+        "Secretaría": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 6413065148.0,
+                    "MONTO_MODIFICADO": 7946761828.72,
+                    "MONTO_EJERCIDO": 7946492632.27
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 63334570.0,
+                    "MONTO_MODIFICADO": 58129424.7,
+                    "MONTO_EJERCIDO": 58129424.7
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 880000000.0,
+                    "MONTO_MODIFICADO": 880000000.0,
+                    "MONTO_EJERCIDO": 880000000.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 8174125102.0,
+                    "MONTO_MODIFICADO": 5171716290.39,
+                    "MONTO_EJERCIDO": 5171716290.39
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 235419425.0,
+                    "MONTO_MODIFICADO": 221437650.62,
+                    "MONTO_EJERCIDO": 221429343.62
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 1927682666.0,
+                    "MONTO_EJERCIDO": 1927682666.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 58024061327.0,
+                    "MONTO_MODIFICADO": 57080597053.55,
+                    "MONTO_EJERCIDO": 56945895572.36
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 6119532726.0,
+                    "MONTO_MODIFICADO": 6483857767.57,
+                    "MONTO_EJERCIDO": 6483853728.94
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 10234532.0,
+                    "MONTO_MODIFICADO": 7517673.6,
+                    "MONTO_EJERCIDO": 7517673.6
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 447000000.0,
+                    "MONTO_MODIFICADO": 447000000.0,
+                    "MONTO_EJERCIDO": 447000000.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 6927991952.0,
+                    "MONTO_MODIFICADO": 6794565170.52,
+                    "MONTO_EJERCIDO": 6794565170.52
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 45380031621.0,
+                    "MONTO_MODIFICADO": 44247342271.17,
+                    "MONTO_EJERCIDO": 44246996675.44
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 6109698789.0,
+                    "MONTO_MODIFICADO": 6385716364.99,
+                    "MONTO_EJERCIDO": 6385705446.1
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de gastos indirectos de programas de subsidios",
+                    "MONTO_APROBADO": 8778219.0,
+                    "MONTO_MODIFICADO": 7775996.73,
+                    "MONTO_EJERCIDO": 7775996.73
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 447000000.0,
+                    "MONTO_MODIFICADO": 447000000.0,
+                    "MONTO_EJERCIDO": 447000000.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 9080816000.0,
+                    "MONTO_MODIFICADO": 9892727929.66,
+                    "MONTO_EJERCIDO": 9892727929.66
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de inversión por concepto de recursos otorgados a fideicomisos públicos no considerados entidad paraestatal cuyo propósito financiero se limite a la administración y pago",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 2310185171.0,
+                    "MONTO_EJERCIDO": 2310185171.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 29061265161.0,
+                    "MONTO_MODIFICADO": 28359939611.2,
+                    "MONTO_EJERCIDO": 28359873502.2
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5381248433.0,
+                    "MONTO_MODIFICADO": 5406627498.0,
+                    "MONTO_EJERCIDO": 5406612028.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 11290961805.0,
+                    "MONTO_MODIFICADO": 12715190896.0,
+                    "MONTO_EJERCIDO": 12715190896.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 28130567813.0,
+                    "MONTO_MODIFICADO": 29407126056.0,
+                    "MONTO_EJERCIDO": 29407125105.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5308318792.0,
+                    "MONTO_MODIFICADO": 5143459988.4,
+                    "MONTO_EJERCIDO": 5143459988.4
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 12572405122.0,
+                    "MONTO_MODIFICADO": 12551950872.3,
+                    "MONTO_EJERCIDO": 12551950872.3
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 38893464544.0,
+                    "MONTO_MODIFICADO": 33632406377.0,
+                    "MONTO_EJERCIDO": 33632406377.0
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5571437604.0,
+                    "MONTO_MODIFICADO": 5732152230.7,
+                    "MONTO_EJERCIDO": 5732152230.7
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 14229972982.0,
+                    "MONTO_MODIFICADO": 14418483106.27,
+                    "MONTO_EJERCIDO": 14418483106.27
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 47563259776.0,
+                    "MONTO_MODIFICADO": 39336036289.03,
+                    "MONTO_EJERCIDO": 39336036289.03
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 5933059182.0,
+                    "MONTO_MODIFICADO": 4964079628.69,
+                    "MONTO_EJERCIDO": 4964079628.69
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 15242435501.0,
+                    "MONTO_MODIFICADO": 15249374325.33,
+                    "MONTO_EJERCIDO": 15249374325.33
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 54112283050.0,
+                    "MONTO_MODIFICADO": 40212376530.17,
+                    "MONTO_EJERCIDO": 40212376530.17
+                }
+            ]
+        },
+        "Servicios a la Navegación en el Espacio Aéreo Mexicano": {
+            "2018": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2343613887.0,
+                    "MONTO_MODIFICADO": 2773819133.83,
+                    "MONTO_EJERCIDO": 2773819133.83
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 6438534.0,
+                    "MONTO_MODIFICADO": 298503267.0,
+                    "MONTO_EJERCIDO": 298503267.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 3750382.92,
+                    "MONTO_EJERCIDO": 3750382.92
+                }
+            ],
+            "2019": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2331620846.0,
+                    "MONTO_MODIFICADO": 2940693352.49,
+                    "MONTO_EJERCIDO": 2940693352.49
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 29804427.740000002,
+                    "MONTO_EJERCIDO": 29804427.740000002
+                }
+            ],
+            "2020": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2655390216.0,
+                    "MONTO_MODIFICADO": 2905616876.13,
+                    "MONTO_EJERCIDO": 2905616876.13
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 898057897.0,
+                    "MONTO_MODIFICADO": 544802001.1600001,
+                    "MONTO_EJERCIDO": 544802001.1600001
+                }
+            ],
+            "2021": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 2839891441.0,
+                    "MONTO_MODIFICADO": 3281877622.0,
+                    "MONTO_EJERCIDO": 3281877622.0
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 3164169985.0,
+                    "MONTO_MODIFICADO": 522553346.0,
+                    "MONTO_EJERCIDO": 522553346.0
+                }
+            ],
+            "2022": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 3073789988.0,
+                    "MONTO_MODIFICADO": 3629918178.4,
+                    "MONTO_EJERCIDO": 3629918178.4
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 800000000.0,
+                    "MONTO_MODIFICADO": 547689514.5,
+                    "MONTO_EJERCIDO": 547689514.5
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 612983.9,
+                    "MONTO_EJERCIDO": 612983.9
+                }
+            ],
+            "2023": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 3200120869.0,
+                    "MONTO_MODIFICADO": 4040041969.6800003,
+                    "MONTO_EJERCIDO": 4040041969.6800003
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 50498273.77,
+                    "MONTO_EJERCIDO": 50498273.77
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ],
+            "2024": [
+                {
+                    "DESC_TIPOGASTO": "Gasto corriente",
+                    "MONTO_APROBADO": 3382113600.0,
+                    "MONTO_MODIFICADO": 4287911917.79,
+                    "MONTO_EJERCIDO": 4287911917.79
+                },
+                {
+                    "DESC_TIPOGASTO": "Gasto de capital diferente de obra pública",
+                    "MONTO_APROBADO": 0.0,
+                    "MONTO_MODIFICADO": 0.0,
+                    "MONTO_EJERCIDO": 0.0
+                }
+            ]
+        }
+    }
+}
