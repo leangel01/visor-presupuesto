@@ -29,7 +29,7 @@ interface ChapterJSON {
     [ur: string]: Array<{
       CICLO: number;
       ID_CAPITULO: number;
-      EJERCICIO: number;
+      MONTO_EJERCIDO: number;
     }>;
   };
 }
@@ -50,8 +50,8 @@ interface TypeBudgetJSON {
 
 // Casteo de datos a sus interfaces correspondientes
 const budgetData = budgetDataRaw as BudgetJSON;
-const budgetByChapterData = budgetByChapterRaw as ChapterJSON;
-const budgetByTypeData = budgetByTypeRaw as TypeBudgetJSON;
+const budgetByChapterData = (budgetByChapterRaw as unknown) as ChapterJSON;
+const budgetByTypeData = (budgetByTypeRaw as unknown) as TypeBudgetJSON;
 
 export const BoardView: React.FC = () => {
   // --- ESTADOS DE FILTROS ---
@@ -180,7 +180,7 @@ export const BoardView: React.FC = () => {
               title={`Análisis por Tipo de Gasto, (${selectedYearForChart})`}
               style={{ borderRadius: '8px', height: '100%', boxShadow: '0 2px 8px rgba(0,0,0,0.05)' }}
             >
-              <BudgetTable data={currentTableData} />
+              <BudgetTable data={currentTableData as any} />
             </Card>
           </Col>
         </Row>

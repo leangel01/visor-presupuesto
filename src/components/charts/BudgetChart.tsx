@@ -74,7 +74,7 @@ export const BudgetChart: React.FC<{ data: BudgetData[] }> = ({ data }) => {
           <XAxis dataKey="CICLO" />
           <YAxis tickFormatter={formatYAxis} width={90} axisLine={false} />
           <Tooltip 
-            formatter={(value: number) => [`$${value.toLocaleString()}`, "Monto"]} 
+            formatter={(value: any) => [`$${Number(value).toLocaleString()}`, "Monto"]} 
           />
           <Legend verticalAlign="top" height={36} />
 

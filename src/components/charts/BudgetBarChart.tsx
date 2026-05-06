@@ -68,19 +68,19 @@ export const BudgetBarChart: React.FC<Props> = ({ data }) => {
           <Tooltip
            cursor={{ fill: 'rgba(255, 255, 255, 0.05)' }} // Sombra blanca muy transparente para modo oscuro
             labelStyle={{ display: "none" }}
-            formatter={(value: number, _name: string, props: any) => [
-                `$${value.toLocaleString("es-MX")}`, 
+            formatter={(value: any, _name: any, props: any) => [
+                `$${Number(value).toLocaleString("es-MX")}`, 
                 props.payload.fullName
             ]}
           />
           <Bar dataKey="value" radius={[0, 4, 4, 0]} barSize={30}>
-            {chartData.map((entry, index) => (
+            {chartData.map((_entry, index) => (
               <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
             ))}
             <LabelList 
               dataKey="value" 
               position="right" 
-              formatter={(val: number) => `$${(val / 1000000).toFixed(1)}M`}
+              formatter={(val: any) => `$${(Number(val) / 1000000).toFixed(1)}M`}
               style={{ fill: token.colorText, fontSize: 11, fontWeight: 600 }}
             />
           </Bar>

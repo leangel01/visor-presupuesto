@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useEffect, useContext } from "react";
+import React, { useState, useMemo, useEffect, useContext, AnyActionArg } from "react";
 import { Card, Select, Checkbox, Empty, Typography, Space, Row, Col } from "antd";
 import {
   BarChart,
@@ -86,7 +86,7 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
   // 4. ETIQUETAS DINÁMICAS (Color controlado por ColorModeContext)
   const renderCustomLabel = (props: any) => {
     const { x, y, width, value } = props;
-    if (!value || value === 0) return null;
+    if (value === null || value === undefined || value === 0) return null;
 
     // Si el modo es 'dark', usamos blanco; si no, negro.
     const labelColor = mode === "dark" ? "#ffffff" : "#000000";
@@ -99,11 +99,11 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
           fill={labelColor}
           textAnchor="start"
           fontSize={11}
-          fontWeight="bold"
+          fontWeight="normal"
           transform="rotate(-90)"
           style={{ transition: "fill 0.3s ease" }} // Transición suave de color
         >
-          {`$${value.toFixed(1)}M`}
+          {`$${Number(value).toFixed(1)}M`}
         </text>
       </g>
     );
@@ -152,8 +152,8 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
               
               <Tooltip 
                 cursor={{ fill: 'rgba(255, 255, 255, 0.05)' }}
-                formatter={(value: number, name: string) => [
-                  `$${value.toFixed(2)} M`, 
+                formatter={(value: any, name: any) => [
+                  `$${Number(value).toFixed(2)} M`, 
                   `${name}: `
                 ]}
                 contentStyle={{ 
