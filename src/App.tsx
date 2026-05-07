@@ -19,7 +19,7 @@ import routerProvider, {
   UnsavedChangesNotifier,
 } from "@refinedev/react-router";
 import { App as AntdApp } from "antd";
-import { BrowserRouter, Outlet, Route, Routes } from "react-router";
+import { HashRouter, Outlet, Route, Routes } from "react-router";
 import { Header } from "./components/header";
 import { ColorModeContextProvider } from "./contexts/color-mode";
 // Importamos el nuevo componente Title personalizado
@@ -42,7 +42,7 @@ import { dataProvider } from "./providers/data";
 
 function App() {
   return (
-    <BrowserRouter basename="/visor-presupuesto">
+    <HashRouter>
       <RefineKbarProvider>
         <ColorModeContextProvider>
           <AntdApp>
@@ -107,9 +107,7 @@ function App() {
                     />
                     
                     {/* Tu ruta del visor se queda igual, esto está correcto */}
-                    <Route path="dashboard">
-                      <Route index element={<BoardView />} />
-                    </Route>
+                    <Route path="dashboard" element={<BoardView />} />
 
                     <Route path="/blog-posts">
                       <Route index element={<BlogPostList />} />
@@ -137,7 +135,7 @@ function App() {
           </AntdApp>
         </ColorModeContextProvider>
       </RefineKbarProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
