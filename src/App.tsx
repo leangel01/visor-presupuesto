@@ -107,7 +107,7 @@ function App() {
                     />
                     
                     {/* Tu ruta del visor se queda igual, esto está correcto */}
-                    <Route path="/dashboard">
+                    <Route path="dashboard">
                       <Route index element={<BoardView />} />
                     </Route>
 
