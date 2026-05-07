@@ -50,7 +50,7 @@ export const BudgetBarChart: React.FC<Props> = ({ data }) => {
   }, [data]);
 
   return (
-    <div style={{ width: "100%", height: 400 }}>
+    <div style={{ width: "100%", height: 360 }}>
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           layout="vertical"

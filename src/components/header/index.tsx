@@ -42,7 +42,7 @@ export const Header: React.FC<RefineThemedLayoutHeaderProps> = ({
   if (sticky) {
     headerStyles.position = "sticky";
     headerStyles.top = 0;
-    headerStyles.zIndex = 1;
+    headerStyles.zIndex = 4; // Asegura que el header esté por encima de otros elementos, en caso de que sobrpongan, incrementar el valor
   }
 
   return (

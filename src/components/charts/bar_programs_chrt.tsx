@@ -32,7 +32,7 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
   const { mode } = useContext(ColorModeContext);
 
   const [selectedProgram, setSelectedProgram] = useState<string | null>(null);
-  const [showHistory, setShowHistory] = useState<boolean>(false);
+  const [showHistory, setShowHistory] = useState<boolean>(true);
 
   // 1. Obtener programas disponibles
   const availablePrograms = useMemo(() => {
@@ -119,7 +119,7 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
               <Select
                 showSearch
                 placeholder="Seleccione un programa..."
-                style={{ minWidth: 350, maxWidth: '100%' }}
+                style={{ minWidth: 350, maxWidth: '98%' }}
                 options={availablePrograms}
                 value={selectedProgram}
                 onChange={(val) => setSelectedProgram(val)}
@@ -140,7 +140,7 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
       style={{ borderRadius: "8px", boxShadow: "0 2px 8px rgba(0,0,0,0.05)" }}
     >
       {chartData.length > 0 ? (
-        <div style={{ height: 480, width: '100%', marginTop: '20px' }}>
+        <div style={{ height: 380, width: '100%', marginTop: '10px' }}>
           <ResponsiveContainer width="100%" height="100%">
             <BarChart 
               data={chartData} 

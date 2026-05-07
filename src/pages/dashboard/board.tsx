@@ -116,11 +116,11 @@ export const BoardView: React.FC = () => {
       <Space direction="vertical" size="middle" style={{ width: "100%" }}>
         
         {/* PANEL DE FILTROS */}
-        <Affix offsetTop={64}>
+        <Affix offsetTop={64} >
         <Card size="small" style={{ borderRadius: '8px', borderTop: '4px solid #1890ff',boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
           <Row gutter={[16, 16]} align="middle">
             <Col xs={24} md={6}>
-              <Title level={4} style={{ margin: 0 }}>Visor Presupuestario</Title>
+              <Title level={4} style={{ margin: 0 }}> </Title>
             </Col>
             {/* SELECTOR DE RAMO */}
             <Col xs={24} md={6}>
