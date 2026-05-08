@@ -42,12 +42,6 @@
                 "MONTO_APROBADO": 194460993.0,
                 "MONTO_MODIFICADO": 193601293.96,
                 "MONTO_EJERCIDO": 193601293.96
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 178064515.0,
-                "MONTO_MODIFICADO": 168180017.2,
-                "MONTO_EJERCIDO": 168180017.2
             }
         ],
         "Fideicomiso de Fomento Minero": [
@@ -100,12 +94,6 @@
                 "MONTO_APROBADO": 1185476510.0,
                 "MONTO_MODIFICADO": 1247387855.8,
                 "MONTO_EJERCIDO": 1247387855.8
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 1083503452.0,
-                "MONTO_MODIFICADO": 1210724144.22,
-                "MONTO_EJERCIDO": 1210724144.22
             }
         ],
         "Secretaría": [
@@ -150,12 +138,6 @@
                 "MONTO_APROBADO": 2249164316.0,
                 "MONTO_MODIFICADO": 1965172977.85,
                 "MONTO_EJERCIDO": 1965172977.85
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 2040144818.0,
-                "MONTO_MODIFICADO": 2087605669.57,
-                "MONTO_EJERCIDO": 2087605669.57
             }
         ],
         "Servicio Geológico Mexicano": [
@@ -200,20 +182,6 @@
                 "MONTO_APROBADO": 260627153.0,
                 "MONTO_MODIFICADO": 271062061.89,
                 "MONTO_EJERCIDO": 271062061.89
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 231750567.0,
-                "MONTO_MODIFICADO": 231656226.95,
-                "MONTO_EJERCIDO": 231656226.95
-            }
-        ],
-        "Comisión Nacional Antimonopolio": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 78980972.86,
-                "MONTO_EJERCIDO": 78980972.86
             }
         ]
     },
@@ -246,12 +214,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 6601220.33,
                 "MONTO_EJERCIDO": 6601220.33
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 13853017.0,
-                "MONTO_MODIFICADO": 310200205.1,
-                "MONTO_EJERCIDO": 310200205.1
             }
         ],
         "Administración del Sistema Portuario Nacional Cabo San Lucas, S.A. de C.V.": [
@@ -274,12 +236,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 287439999.9,
                 "MONTO_EJERCIDO": 287439999.9
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 192800000.0,
-                "MONTO_EJERCIDO": 192800000.0
             }
         ],
         "Administración del Sistema Portuario Nacional Dos Bocas, S.A. de C.V.": [
@@ -288,12 +244,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 1418936665.58,
                 "MONTO_EJERCIDO": 1418936665.58
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 1125786852.27,
-                "MONTO_EJERCIDO": 1125786852.27
             }
         ],
         "Administración del Sistema Portuario Nacional Puerto Chiapas, S.A. de C.V.": [
@@ -314,12 +264,6 @@
                 "MONTO_APROBADO": 31160199.0,
                 "MONTO_MODIFICADO": 766654450.68,
                 "MONTO_EJERCIDO": 766654450.68
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 29710804.0,
-                "MONTO_MODIFICADO": 106113640.98,
-                "MONTO_EJERCIDO": 106113640.98
             }
         ],
         "Administración del Sistema Portuario Nacional Salina Cruz, S.A. de C.V.": [
@@ -340,12 +284,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 2332055697.57,
                 "MONTO_EJERCIDO": 2332055697.57
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 684901045.69,
-                "MONTO_EJERCIDO": 684901045.69
             }
         ],
         "Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.": [
@@ -354,12 +292,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 1182602412.0,
                 "MONTO_EJERCIDO": 1182602412.0
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 141299210.25,
-                "MONTO_EJERCIDO": 141299210.25
             }
         ],
         "Corredor Interoceánico del Istmo de Tehuantepec": [
@@ -374,12 +306,6 @@
                 "MONTO_APROBADO": 17133942485.0,
                 "MONTO_MODIFICADO": 30909453384.79,
                 "MONTO_EJERCIDO": 30909453384.79
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 99924074.0,
-                "MONTO_MODIFICADO": 99911376.41,
-                "MONTO_EJERCIDO": 99911376.41
             }
         ],
         "Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.": [
@@ -394,12 +320,6 @@
                 "MONTO_APROBADO": 3925404747.0,
                 "MONTO_MODIFICADO": 30932329639.22,
                 "MONTO_EJERCIDO": 30932329639.22
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 25122921722.0,
-                "MONTO_MODIFICADO": 3754327643.9,
-                "MONTO_EJERCIDO": 3754327643.9
             }
         ],
         "Fideicomiso Universidad Marítima y Portuaria de México": [
@@ -414,12 +334,6 @@
                 "MONTO_APROBADO": 102904751.0,
                 "MONTO_MODIFICADO": 97468647.57000001,
                 "MONTO_EJERCIDO": 97468647.57000001
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 91708761.0,
-                "MONTO_MODIFICADO": 91708761.0,
-                "MONTO_EJERCIDO": 91708761.0
             }
         ],
         "Fideicomiso Universidad Marítima y Portuaria de México    ": [
@@ -450,12 +364,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 276318302.06,
                 "MONTO_EJERCIDO": 276318302.06
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 257083733.0,
-                "MONTO_MODIFICADO": 100482339.37,
-                "MONTO_EJERCIDO": 100482339.37
             }
         ],
         "Secretaría": [
@@ -500,12 +408,6 @@
                 "MONTO_APROBADO": 50694800353.0,
                 "MONTO_MODIFICADO": 59267020299.33,
                 "MONTO_EJERCIDO": 59267020299.33
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 40243470303.0,
-                "MONTO_MODIFICADO": 59103629825.61,
-                "MONTO_EJERCIDO": 59103629825.61
             }
         ],
         "Turística Integral Islas Marías, S.A. de C.V.": [
@@ -526,12 +428,6 @@
                 "MONTO_APROBADO": 0.0,
                 "MONTO_MODIFICADO": 3531552.04,
                 "MONTO_EJERCIDO": 3531552.04
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 30072191.0,
-                "MONTO_MODIFICADO": 27426462.66,
-                "MONTO_EJERCIDO": 27426462.66
             }
         ]
     },
@@ -578,12 +474,6 @@
                 "MONTO_APROBADO": 4848703082.0,
                 "MONTO_MODIFICADO": 5059240136.65,
                 "MONTO_EJERCIDO": 5059240136.65
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 32117554212.0,
-                "MONTO_MODIFICADO": 16914788271.36,
-                "MONTO_EJERCIDO": 16914788271.36
             }
         ],
         "Fideicomiso Fondo Nacional de Fomento Ejidal": [
@@ -636,12 +526,6 @@
                 "MONTO_APROBADO": 302667579.0,
                 "MONTO_MODIFICADO": 301562990.03,
                 "MONTO_EJERCIDO": 301562990.03
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 283474422.0,
-                "MONTO_MODIFICADO": 282958405.27,
-                "MONTO_EJERCIDO": 282958405.27
             }
         ],
         "Procuraduría Agraria": [
@@ -686,12 +570,6 @@
                 "MONTO_APROBADO": 1012758990.0,
                 "MONTO_MODIFICADO": 1104724610.42,
                 "MONTO_EJERCIDO": 1104724610.42
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 949143309.0,
-                "MONTO_MODIFICADO": 1024682807.89,
-                "MONTO_EJERCIDO": 1024682807.89
             }
         ],
         "Registro Agrario Nacional": [
@@ -736,12 +614,6 @@
                 "MONTO_APROBADO": 835482378.0,
                 "MONTO_MODIFICADO": 893459509.5,
                 "MONTO_EJERCIDO": 893459509.5
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 807760352.0,
-                "MONTO_MODIFICADO": 971106865.84,
-                "MONTO_EJERCIDO": 971106865.84
             }
         ],
         "Secretaría": [
@@ -786,12 +658,6 @@
                 "MONTO_APROBADO": 5880657805.0,
                 "MONTO_MODIFICADO": 7714636021.38,
                 "MONTO_EJERCIDO": 7714636021.38
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 3890092730.0,
-                "MONTO_MODIFICADO": 4197075662.3699994,
-                "MONTO_EJERCIDO": 4197075662.3699994
             }
         ]
     },
@@ -832,68 +698,6 @@
                 "MONTO_APROBADO": 70767434577.0,
                 "MONTO_MODIFICADO": 34597833761.13,
                 "MONTO_EJERCIDO": 34597833761.13
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 33799754964.0,
-                "MONTO_MODIFICADO": 28126002139.37,
-                "MONTO_EJERCIDO": 28126002139.37
-            }
-        ],
-        "Centro Nacional de Inteligencia": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 2759993826.0,
-                "MONTO_MODIFICADO": 7558968429.39,
-                "MONTO_EJERCIDO": 7558968429.39
-            }
-        ],
-        "Centro Nacional de Prevención de Desastres": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 73717509.0,
-                "MONTO_MODIFICADO": 95567357.21,
-                "MONTO_EJERCIDO": 95567357.21
-            }
-        ],
-        "Coordinación Nacional Antisecuestro y Delitos de Alto Impacto": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 73930344.0,
-                "MONTO_MODIFICADO": 110138388.36,
-                "MONTO_EJERCIDO": 110138388.36
-            }
-        ],
-        "Prevención y Reinserción Social": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 25242783663.0,
-                "MONTO_MODIFICADO": 24582329047.07,
-                "MONTO_EJERCIDO": 24579242101.95
-            }
-        ],
-        "Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 1395155672.0,
-                "MONTO_MODIFICADO": 1414321354.37,
-                "MONTO_EJERCIDO": 1414321354.37
-            }
-        ],
-        "Secretaría": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 4925114911.0,
-                "MONTO_MODIFICADO": 6974973727.900001,
-                "MONTO_EJERCIDO": 6974973727.900001
-            }
-        ],
-        "Servicio de Protección Federal": [
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 2151722816.0,
-                "MONTO_MODIFICADO": 8508424016.32,
-                "MONTO_EJERCIDO": 8508424016.32
             }
         ]
     },
@@ -1042,12 +846,6 @@
                 "MONTO_APROBADO": 119673172.0,
                 "MONTO_MODIFICADO": 1426274142.73,
                 "MONTO_EJERCIDO": 1426271328.73
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 66860233.59,
-                "MONTO_EJERCIDO": 66860233.59
             }
         ],
         "Aeropuerto Internacional Felipe Ángeles, S.A. de C.V.": [
@@ -1074,12 +872,6 @@
                 "MONTO_APROBADO": 1500000001.0,
                 "MONTO_MODIFICADO": 1510248515.09,
                 "MONTO_EJERCIDO": 1510248515.09
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 924610098.0,
-                "MONTO_MODIFICADO": 1000110018.26,
-                "MONTO_EJERCIDO": 1000110018.26
             }
         ],
         "Grupo Aeroportuario, Ferroviario, de Servicios Auxiliares y Conexos, Olmeca-Maya-Mexica, S.A. de C.V.": [
@@ -1094,12 +886,6 @@
                 "MONTO_APROBADO": 15172754614.0,
                 "MONTO_MODIFICADO": 5184760467.55,
                 "MONTO_EJERCIDO": 5184760467.52
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 2275513166.0,
-                "MONTO_MODIFICADO": 1758416514.69,
-                "MONTO_EJERCIDO": 1758408114.69
             }
         ],
         "Secretaría": [
@@ -1144,12 +930,6 @@
                 "MONTO_APROBADO": 116704114622.0,
                 "MONTO_MODIFICADO": 198287227368.46,
                 "MONTO_EJERCIDO": 198287227368.46
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 114259865014.0,
-                "MONTO_MODIFICADO": 130268634772.56,
-                "MONTO_EJERCIDO": 130268634772.56
             }
         ],
         "Tren Maya, S.A. de C.V.": [
@@ -1164,12 +944,6 @@
                 "MONTO_APROBADO": 125937262357.0,
                 "MONTO_MODIFICADO": 29912688517.41,
                 "MONTO_EJERCIDO": 29912688517.41
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 40827762372.0,
-                "MONTO_MODIFICADO": 27666429079.87,
-                "MONTO_EJERCIDO": 27666429079.87
             }
         ]
     },
@@ -1290,12 +1064,6 @@
                 "MONTO_APROBADO": 712019682.0,
                 "MONTO_MODIFICADO": 873443454.5,
                 "MONTO_EJERCIDO": 873443454.5
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 653385134.0,
-                "MONTO_MODIFICADO": 897855484.05,
-                "MONTO_EJERCIDO": 897854362.75
             }
         ],
         "Agencia Reguladora del Transporte Ferroviario": [
@@ -1340,12 +1108,6 @@
                 "MONTO_APROBADO": 52338744.0,
                 "MONTO_MODIFICADO": 54515303.52,
                 "MONTO_EJERCIDO": 54515303.52
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 48295053.0,
-                "MONTO_MODIFICADO": 67369326098.91,
-                "MONTO_EJERCIDO": 67015707815.89
             }
         ],
         "Caminos y Puentes Federales de Ingresos y Servicios Conexos": [
@@ -1488,12 +1250,6 @@
                 "MONTO_APROBADO": 173113409.0,
                 "MONTO_MODIFICADO": 190861148.26999998,
                 "MONTO_EJERCIDO": 190861148.26999998
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 164853865.0,
-                "MONTO_MODIFICADO": 191929897.69,
-                "MONTO_EJERCIDO": 191929897.69
             }
         ],
         "Organismo Promotor de Inversiones en Telecomunicaciones": [
@@ -1538,12 +1294,6 @@
                 "MONTO_APROBADO": 149484698.0,
                 "MONTO_MODIFICADO": 2861089041.4399996,
                 "MONTO_EJERCIDO": 2861089041.4399996
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 0.0,
-                "MONTO_MODIFICADO": 139790087.55,
-                "MONTO_EJERCIDO": 139786887.55
             }
         ],
         "Secretaría": [
@@ -1588,12 +1338,6 @@
                 "MONTO_APROBADO": 75287777733.0,
                 "MONTO_MODIFICADO": 60425830484.19,
                 "MONTO_EJERCIDO": 60425830484.19
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 143627666571.0,
-                "MONTO_MODIFICADO": 58525824731.89,
-                "MONTO_EJERCIDO": 58503985925.71
             }
         ],
         "Servicios a la Navegación en el Espacio Aéreo Mexicano": [
@@ -1638,12 +1382,6 @@
                 "MONTO_APROBADO": 3382113600.0,
                 "MONTO_MODIFICADO": 4287911917.79,
                 "MONTO_EJERCIDO": 4287911917.79
-            },
-            {
-                "CICLO": 2025,
-                "MONTO_APROBADO": 3017255623.0,
-                "MONTO_MODIFICADO": 4957027944.39,
-                "MONTO_EJERCIDO": 4957027944.39
             }
         ]
     }

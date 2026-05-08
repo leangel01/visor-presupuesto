@@ -119,7 +119,7 @@ export const BarProgramsChrt: React.FC<BarProgramsChrtProps> = ({
               <Select
                 showSearch
                 placeholder="Seleccione un programa..."
-                style={{ minWidth: 350, maxWidth: '98%' }}
+                style={{ minWidth: 350, maxWidth: '95%' }}
                 options={availablePrograms}
                 value={selectedProgram}
                 onChange={(val) => setSelectedProgram(val)}
