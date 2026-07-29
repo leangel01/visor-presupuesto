@@ -105,7 +105,7 @@ function App() {
                     
                     {/* Tu ruta del visor se queda igual, esto está correcto */}
                     <Route path="dashboard" element={<BoardView />} />
-
+{/*
                     <Route path="/blog-posts">
                       <Route index element={<BlogPostList />} />
                       <Route path="create" element={<BlogPostCreate />} />
@@ -120,6 +120,7 @@ function App() {
                       <Route path="show/:id" element={<CategoryShow />} />
                     </Route>
                     <Route path="*" element={<ErrorComponent />} />
+*/}                    
                   </Route>
                 </Routes>
 

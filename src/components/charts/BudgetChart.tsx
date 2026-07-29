@@ -64,7 +64,7 @@ export const BudgetChart: React.FC<{ data: BudgetData[] }> = ({ data }) => {
   const formatYAxis = (value: number) => `$${(value / 1000000).toLocaleString()}M`;
 
   return (
-    <div style={{ width: "100%", height: 360, marginTop: "10px" }}>
+    <div style={{ width: "100%", height: 360, marginTop: "15px" }}>
       <ResponsiveContainer width="100%" height="100%">
         <LineChart 
           data={sortedData} 
